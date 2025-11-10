@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "id": "spec100",
+      "rare": "common",
+      "tooltip": ["tooltip1", "tooltip2"],
+      "name": "Component 1",
+      "displayName": "Component 1 Display Name"
+    },
+    {
+      "id": "spec101",
+      "rare": "rare",
+      "tooltip": ["tooltip3", "tooltip4"],
+      "name": "Component 2",
+      "displayName": "Component 2 Display Name"
+    }
+  ],
+  "rare": [
+    {
+      "id": "common",
+      "name": "Rare Item 1",
+      "colorBackground": -16777216,
+      "colorMain": -30464
+    },
+    {
+      "id": "rare",
+      "name": "Rare Item 2",
+      "colorBackground": -16777216,
+      "colorMain": -30464
+    }
+  ]
+}

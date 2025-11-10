@@ -1,0 +1,74 @@
+[
+  {
+    "type": "chance",
+    "name": "speed_1",
+    "chance": 0.05,
+    "moduleType": "SPEED"
+  },
+  {
+    "type": "chance",
+    "name": "speed_2",
+    "chance": 0.15,
+    "moduleType": "SPEED"
+  },
+  {
+    "type": "chance",
+    "name": "speed_3",
+    "chance": 0.25,
+    "moduleType": "SPEED"
+  },
+  {
+    "type": "chance",
+    "name": "efficiency_1",
+    "chance": 0.1,
+    "moduleType": "EFFICIENCY"
+  },
+  {
+    "type": "chance",
+    "name": "efficiency_2",
+    "chance": 0.2,
+    "moduleType": "EFFICIENCY"
+  },
+  {
+    "type": "chance",
+    "name": "efficiency_3",
+    "chance": 0.3,
+    "moduleType": "EFFICIENCY"
+  },
+  {
+    "type": "chance",
+    "name": "economy_1",
+    "chance": 0.1,
+    "moduleType": "ECONOMY"
+  },
+  {
+    "type": "chance",
+    "name": "economy_2",
+    "chance": 0.3,
+    "moduleType": "ECONOMY"
+  },
+  {
+    "type": "chance",
+    "name": "economy_3",
+    "chance": 0.5,
+    "moduleType": "ECONOMY"
+  },
+  {
+    "type": "condition",
+    "name": "eternal_moon",
+    "value": true,
+    "moduleType": "INFINITE_NIGHT"
+  },
+  {
+    "type": "condition",
+    "name": "eternal_sun",
+    "value": true,
+    "moduleType": "INFINITE_DAY"
+  },
+  {
+    "type": "condition",
+    "name": "hell_on_earth",
+    "value": true,
+    "moduleType": "INFINITE_LAVA"
+  }
+]
