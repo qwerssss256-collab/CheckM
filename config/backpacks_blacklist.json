@@ -1,0 +1,11 @@
+{
+  "blacklist": [
+  "extracells:storage.physical",
+  "thaumicenergistics:storage.essentia",
+  "appliedenergistics2:item.ItemBasicStorageCell.1k",
+  "appliedenergistics2:item.ItemBasicStorageCell.4k",
+  "appliedenergistics2:item.ItemBasicStorageCell.16k",
+  "appliedenergistics2:item.ItemBasicStorageCell.64k",
+  "extracells:storage.fluid"
+  ]
+}

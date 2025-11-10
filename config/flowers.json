@@ -1,0 +1,163 @@
+[
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"arcanerose\"}"
+    },
+    "fuels": [
+      {
+        "fluid": {
+          "fluid": "xpjuice",
+          "amount": 1000
+        },
+        "burnTime": 100
+      }
+    ],
+    "mana": 2500,
+    "manaProducer": "UNIVERSAL_LIQUID"
+  },
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"daybloom\"}"
+    },
+    "fuels": [],
+    "mana": 2,
+    "manaProducer": "DAYBLOOM"
+  },
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"endoflame\"}"
+    },
+    "fuels": [
+      {
+        "solid": {
+          "item": {
+            "modId": "minecraft",
+            "name": "coal"
+          },
+          "amount": 5
+        },
+        "burnTime": 1000
+      },
+      {
+        "solid": {
+          "item": {
+            "modId": "minecraft",
+            "name": "log"
+          },
+          "amount": 1
+        },
+        "burnTime": 1000
+      }
+    ],
+    "mana": 40,
+    "manaProducer": "UNIVERSAL_ENDOFLAME"
+  },
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"entropinnyum\"}"
+    },
+    "fuels": [
+      {
+        "solid": {
+          "item": {
+            "modId": "minecraft",
+            "name": "tnt"
+          },
+          "amount": 1
+        }
+      }
+    ],
+    "mana": 6500,
+    "manaProducer": "UNIVERSAL"
+  },
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"gourmaryllis\"}"
+    },
+    "fuels": [
+      {
+        "solid": {
+          "item": {
+            "modId": "minecraft",
+            "name": "cooked_beef"
+          },
+          "amount": 5
+        }
+      }
+    ],
+    "mana": 10,
+    "manaProducer": "UNIVERSAL_GOURMARYLLIS"
+  },
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"hydroangeas\"}"
+    },
+    "fuels": [
+      {
+        "fluid": {
+          "fluid": "water",
+          "amount": 1000
+        },
+        "burnTime": 100
+      }
+    ],
+    "mana": 20,
+    "manaProducer": "UNIVERSAL_LIQUID"
+  },
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"nightshade\"}"
+    },
+    "fuels": [],
+    "mana": 2,
+    "manaProducer": "NIGHTSHADE"
+  },
+  {
+    "flower": {
+      "item": {
+        "modId": "Botania",
+        "name": "specialFlower"
+      },
+      "tag": "{type:\"thermalily\"}"
+    },
+    "fuels": [
+      {
+        "fluid": {
+          "fluid": "lava",
+          "amount": 1000
+        },
+        "burnTime": 100
+      }
+    ],
+    "mana": 80,
+    "manaProducer": "UNIVERSAL_LIQUID"
+  }
+]
