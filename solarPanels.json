@@ -1,0 +1,866 @@
+[
+  {
+    "name": "IC2_1",
+    "night": 1.0,
+    "day": 8.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 20000.0,
+    "maxOutput": 16.0,
+    "textures": [
+      "advancedsolarpanel:asp_bottom",
+      "advancedsolarpanel:asp_top",
+      "advancedsolarpanel:asp_side",
+      "advancedsolarpanel:asp_side",
+      "advancedsolarpanel:asp_side",
+      "advancedsolarpanel:asp_side"
+    ]
+  },
+  {
+    "name": "IC2_2",
+    "night": 8.0,
+    "day": 64.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 160000.0,
+    "maxOutput": 128.0,
+    "textures": [
+      "advancedsolarpanel:hsp_bottom",
+      "advancedsolarpanel:hsp_top",
+      "advancedsolarpanel:hsp_side",
+      "advancedsolarpanel:hsp_side",
+      "advancedsolarpanel:hsp_side",
+      "advancedsolarpanel:hsp_side"
+    ]
+  },
+  {
+    "name": "IC2_3",
+    "night": 64.0,
+    "day": 512.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 1280000.0,
+    "maxOutput": 1024.0,
+    "textures": [
+      "advancedsolarpanel:usp_bottom",
+      "advancedsolarpanel:usp_top",
+      "advancedsolarpanel:usp_side",
+      "advancedsolarpanel:usp_side",
+      "advancedsolarpanel:usp_side",
+      "advancedsolarpanel:usp_side"
+    ]
+  },
+  {
+    "name": "IC2_4",
+    "night": 2048.0,
+    "day": 4096.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 10240000.0,
+    "maxOutput": 8192.0,
+    "textures": [
+      "advancedsolarpanel:qsp_bottom",
+      "advancedsolarpanel:qsp_top",
+      "advancedsolarpanel:qsp_side_copy",
+      "advancedsolarpanel:qsp_side_copy",
+      "advancedsolarpanel:qsp_side_copy",
+      "advancedsolarpanel:qsp_side_copy"
+    ]
+  },
+  {
+    "name": "IC2_5",
+    "night": 8192.0,
+    "day": 16384.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 40960000.0,
+    "maxOutput": 32768.0,
+    "textures": [
+      "panels/ic2/chrome/bottom",
+      "panels/ic2/chrome/top",
+      "panels/ic2/chrome/side",
+      "panels/ic2/chrome/side",
+      "panels/ic2/chrome/side",
+      "panels/ic2/chrome/side"
+    ]
+  },
+  {
+    "name": "IC2_6",
+    "night": 24575.0,
+    "day": 49152.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 122880000.0,
+    "maxOutput": 98304.0,
+    "textures": [
+      "panels/ic2/gravity/bottom",
+      "panels/ic2/gravity/top",
+      "panels/ic2/gravity/side",
+      "panels/ic2/gravity/side",
+      "panels/ic2/gravity/side",
+      "panels/ic2/gravity/side"
+    ]
+  },
+  {
+    "name": "IC2_7",
+    "night": 73728.0,
+    "day": 147456.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 368640000.0,
+    "maxOutput": 294912.0,
+    "textures": [
+      "panels/ic2/wywern/bottom",
+      "panels/ic2/wywern/top",
+      "panels/ic2/wywern/side",
+      "panels/ic2/wywern/side",
+      "panels/ic2/wywern/side",
+      "panels/ic2/wywern/side"
+    ]
+  },
+  {
+    "name": "IC2_8",
+    "night": 221184.0,
+    "day": 442368.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 1105920000.0,
+    "maxOutput": 884736.0,
+    "textures": [
+      "panels/ic2/correg/bottom",
+      "panels/ic2/correg/top",
+      "panels/ic2/correg/side",
+      "panels/ic2/correg/side",
+      "panels/ic2/correg/side",
+      "panels/ic2/correg/side"
+    ]
+  },
+  {
+    "name": "IC2_9",
+    "night": 663552.0,
+    "day": 1327104.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 3317760000.0,
+    "maxOutput": 2654208.0,
+    "textures": [
+      "panels/ic2/dragon/bottom",
+      "panels/ic2/dragon/top",
+      "panels/ic2/dragon/side",
+      "panels/ic2/dragon/side",
+      "panels/ic2/dragon/side",
+      "panels/ic2/dragon/side"
+    ]
+  },
+  {
+    "name": "IC2_10",
+    "night": 1990656.0,
+    "day": 3981312.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 9953280000.0,
+    "maxOutput": 7962624.0,
+    "textures": [
+      "panels/ic2/gamma/bottom",
+      "panels/ic2/gamma/top",
+      "panels/ic2/gamma/side",
+      "panels/ic2/gamma/side",
+      "panels/ic2/gamma/side",
+      "panels/ic2/gamma/side"
+    ]
+  },
+  {
+    "name": "IC2_11",
+    "night": 5971968.0,
+    "day": 11943936.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 29859840000.0,
+    "maxOutput": 23887872.0,
+    "textures": [
+      "panels/ic2/chaotic/bottom",
+      "panels/ic2/chaotic/top",
+      "panels/ic2/chaotic/side",
+      "panels/ic2/chaotic/side",
+      "panels/ic2/chaotic/side",
+      "panels/ic2/chaotic/side"
+    ]
+  },
+  {
+    "name": "IC2_12",
+    "night": 17915904.0,
+    "day": 35831808.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 89579520000.0,
+    "maxOutput": 71663616.0,
+    "textures": [
+      "panels/ic2/star/bottom",
+      "panels/ic2/star/top",
+      "panels/ic2/star/side",
+      "panels/ic2/star/side",
+      "panels/ic2/star/side",
+      "panels/ic2/star/side"
+    ]
+  },
+  {
+    "name": "IC2_13",
+    "night": 53747712.0,
+    "day": 107495424.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 268738560000.0,
+    "maxOutput": 214990848.0,
+    "textures": [
+      "panels/ic2/space/bottom",
+      "panels/ic2/space/top",
+      "panels/ic2/space/side",
+      "panels/ic2/space/side",
+      "panels/ic2/space/side",
+      "panels/ic2/space/side"
+    ]
+  },
+  {
+    "name": "IC2_14",
+    "night": 300000000.0,
+    "day": 600000000.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 1000000000000.0,
+    "maxOutput": 1200000000.0,
+    "textures": [
+      "panels/ic2/infinity/bottom",
+      "panels/ic2/infinity/top",
+      "panels/ic2/infinity/side",
+      "panels/ic2/infinity/side",
+      "panels/ic2/infinity/side",
+      "panels/ic2/infinity/side"
+    ]
+  },
+  {
+    "name": "Thaumcraft_1",
+    "night": 98304.0,
+    "day": 196608.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 491520000.0,
+    "maxOutput": 393216.0,
+    "textures": [
+      "panels/thaum/essence/bottom",
+      "panels/thaum/essence/top",
+      "panels/thaum/essence/side",
+      "panels/thaum/essence/side",
+      "panels/thaum/essence/side",
+      "panels/thaum/essence/side"
+    ]
+  },
+  {
+    "name": "Thaumcraft_2",
+    "night": 294912.0,
+    "day": 589824.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 1474560000.0,
+    "maxOutput": 1179648.0,
+    "textures": [
+      "panels/thaum/thaumaturge/bottom",
+      "panels/thaum/thaumaturge/top",
+      "panels/thaum/thaumaturge/side",
+      "panels/thaum/thaumaturge/side",
+      "panels/thaum/thaumaturge/side",
+      "panels/thaum/thaumaturge/side"
+    ]
+  },
+  {
+    "name": "Thaumcraft_3",
+    "night": 884736.0,
+    "day": 1769472.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 4423680000.0,
+    "maxOutput": 3538944.0,
+    "textures": [
+      "panels/thaum/ichor/bottom",
+      "panels/thaum/ichor/top",
+      "panels/thaum/ichor/side",
+      "panels/thaum/ichor/side",
+      "panels/thaum/ichor/side",
+      "panels/thaum/ichor/side"
+    ]
+  },
+  {
+    "name": "Thaumcraft_4",
+    "night": 2654208.0,
+    "day": 5308416.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 13271040000.0,
+    "maxOutput": 10616832.0,
+    "textures": [
+      "panels/thaum/blazing/bottom",
+      "panels/thaum/blazing/top",
+      "panels/thaum/blazing/side",
+      "panels/thaum/blazing/side",
+      "panels/thaum/blazing/side",
+      "panels/thaum/blazing/side"
+    ]
+  },
+  {
+    "name": "Thaumcraft_5",
+    "night": 5898240.0,
+    "day": 11796480.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 26542080000.0,
+    "maxOutput": 23592960.0,
+    "textures": [
+      "panels/thaum/akashi/bottom",
+      "panels/thaum/akashi/top",
+      "panels/thaum/akashi/side",
+      "panels/thaum/akashi/side",
+      "panels/thaum/akashi/side",
+      "panels/thaum/akashi/side"
+    ]
+  },
+  {
+    "name": "Forestry_1",
+    "night": 98304.0,
+    "day": 196608.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 491520000.0,
+    "maxOutput": 393216.0,
+    "textures": [
+      "panels/forestry/confident/bottom",
+      "panels/forestry/confident/top",
+      "panels/forestry/confident/side",
+      "panels/forestry/confident/side",
+      "panels/forestry/confident/side",
+      "panels/forestry/confident/side"
+    ]
+  },
+  {
+    "name": "Forestry_2",
+    "night": 196608.0,
+    "day": 393216.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 983040000.0,
+    "maxOutput": 786432.0,
+    "textures": [
+      "panels/forestry/beekeepers_confident/bottom",
+      "panels/forestry/beekeepers_confident/top",
+      "panels/forestry/beekeepers_confident/side",
+      "panels/forestry/beekeepers_confident/side",
+      "panels/forestry/beekeepers_confident/side",
+      "panels/forestry/beekeepers_confident/side"
+    ]
+  },
+  {
+    "name": "Forestry_3",
+    "night": 294912.0,
+    "day": 589824.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 1474560000.0,
+    "maxOutput": 1179648.0,
+    "textures": [
+      "panels/forestry/venom/bottom",
+      "panels/forestry/venom/top",
+      "panels/forestry/venom/side",
+      "panels/forestry/venom/side",
+      "panels/forestry/venom/side",
+      "panels/forestry/venom/side"
+    ]
+  },
+  {
+    "name": "Forestry_4",
+    "night": 589824.0,
+    "day": 1179648.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 2949120000.0,
+    "maxOutput": 2359296.0,
+    "textures": [
+      "panels/forestry/beekeepers_venom/bottom",
+      "panels/forestry/beekeepers_venom/top",
+      "panels/forestry/beekeepers_venom/side",
+      "panels/forestry/beekeepers_venom/side",
+      "panels/forestry/beekeepers_venom/side",
+      "panels/forestry/beekeepers_venom/side"
+    ]
+  },
+  {
+    "name": "Forestry_5",
+    "night": 884736.0,
+    "day": 1769472.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 4423680000.0,
+    "maxOutput": 3538944.0,
+    "textures": [
+      "panels/forestry/nickel/bottom",
+      "panels/forestry/nickel/top",
+      "panels/forestry/nickel/side",
+      "panels/forestry/nickel/side",
+      "panels/forestry/nickel/side",
+      "panels/forestry/nickel/side"
+    ]
+  },
+  {
+    "name": "Forestry_6",
+    "night": 1769472.0,
+    "day": 3538944.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 8847360000.0,
+    "maxOutput": 7077888.0,
+    "textures": [
+      "panels/forestry/beekeepers_nickel/bottom",
+      "panels/forestry/beekeepers_nickel/top",
+      "panels/forestry/beekeepers_nickel/side",
+      "panels/forestry/beekeepers_nickel/side",
+      "panels/forestry/beekeepers_nickel/side",
+      "panels/forestry/beekeepers_nickel/side"
+    ]
+  },
+  {
+    "name": "Forestry_7",
+    "night": 2654208.0,
+    "day": 5308416.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 13271040000.0,
+    "maxOutput": 10616832.0,
+    "textures": [
+      "panels/forestry/ruby/bottom",
+      "panels/forestry/ruby/top",
+      "panels/forestry/ruby/side",
+      "panels/forestry/ruby/side",
+      "panels/forestry/ruby/side",
+      "panels/forestry/ruby/side"
+    ]
+  },
+  {
+    "name": "Forestry_8",
+    "night": 5308416.0,
+    "day": 10616832.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 26542080000.0,
+    "maxOutput": 21233664.0,
+    "textures": [
+      "panels/forestry/beekeepers_ruby/bottom",
+      "panels/forestry/beekeepers_ruby/top",
+      "panels/forestry/beekeepers_ruby/side",
+      "panels/forestry/beekeepers_ruby/side",
+      "panels/forestry/beekeepers_ruby/side",
+      "panels/forestry/beekeepers_ruby/side"
+    ]
+  },
+  {
+    "name": "F_Emerald",
+    "night": 2654208.0,
+    "day": 5308416.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 13271040000.0,
+    "maxOutput": 10616832.0,
+    "textures": [
+      "panels/forestry/emerald/bottom",
+      "panels/forestry/emerald/top",
+      "panels/forestry/emerald/side",
+      "panels/forestry/emerald/side",
+      "panels/forestry/emerald/side",
+      "panels/forestry/emerald/side"
+    ]
+  },
+  {
+    "name": "F_B_Emerald",
+    "night": 5308416.0,
+    "day": 10616832.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 26542080000.0,
+    "maxOutput": 21233664.0,
+    "textures": [
+      "panels/forestry/emerald/bottom",
+      "panels/forestry/emerald/top",
+      "panels/forestry/emerald/side_beekeepers",
+      "panels/forestry/emerald/side_beekeepers",
+      "panels/forestry/emerald/side_beekeepers",
+      "panels/forestry/emerald/side_beekeepers"
+    ]
+  },
+  {
+    "name": "Forestry_9",
+    "night": 11796480.0,
+    "day": 23592960.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 53084160000.0,
+    "maxOutput": 47185920.0,
+    "textures": [
+      "panels/forestry/beekeepers_exobiological/bottom",
+      "panels/forestry/beekeepers_exobiological/top",
+      "panels/forestry/beekeepers_exobiological/side",
+      "panels/forestry/beekeepers_exobiological/side",
+      "panels/forestry/beekeepers_exobiological/side",
+      "panels/forestry/beekeepers_exobiological/side"
+    ]
+  },
+  {
+    "name": "Botania_1",
+    "night": 98304.0,
+    "day": 196608.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 491520000.0,
+    "maxOutput": 393216.0,
+    "textures": [
+      "panels/botania/mana/bottom",
+      "panels/botania/mana/top",
+      "panels/botania/mana/side",
+      "panels/botania/mana/side",
+      "panels/botania/mana/side",
+      "panels/botania/mana/side"
+    ]
+  },
+  {
+    "name": "Botania_2",
+    "night": 294912.0,
+    "day": 589824.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+	"hasTile": true,
+    "maxStorage": 1474560000.0,
+    "maxOutput": 1179648.0,
+    "textures": [
+      "panels/botania/terrastal/bottom",
+      "panels/botania/terrastal/top",
+      "panels/botania/terrastal/side",
+      "panels/botania/terrastal/side",
+      "panels/botania/terrastal/side",
+      "panels/botania/terrastal/side"
+    ]
+  },
+  {
+    "name": "Botania_3",
+    "night": 884736.0,
+    "day": 1769472.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 4423680000.0,
+    "maxOutput": 3538944.0,
+    "textures": [
+      "panels/botania/alfheim/bottom",
+      "panels/botania/alfheim/top",
+      "panels/botania/alfheim/side",
+      "panels/botania/alfheim/side",
+      "panels/botania/alfheim/side",
+      "panels/botania/alfheim/side"
+    ]
+  },
+  {
+    "name": "Botania_4",
+    "night": 2654208.0,
+    "day": 5308416.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 13271040000.0,
+    "maxOutput": 10616832.0,
+    "textures": [
+      "panels/botania/elvory/bottom",
+      "panels/botania/elvory/top",
+      "panels/botania/elvory/side",
+      "panels/botania/elvory/side",
+      "panels/botania/elvory/side",
+      "panels/botania/elvory/side"
+    ]
+  },
+  {
+    "name": "Botania_5",
+    "night": 7962624.0,
+    "day": 15925248.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 39813120000.0,
+    "maxOutput": 31850496.0,
+    "textures": [
+      "panels/botania/mauftree/bottom",
+      "panels/botania/mauftree/top",
+      "panels/botania/mauftree/side",
+      "panels/botania/mauftree/side",
+      "panels/botania/mauftree/side",
+      "panels/botania/mauftree/side"
+    ]
+  },
+  {
+    "name": "Botania_6",
+    "night": 17842176.0,
+    "day": 35684352.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+	"hasTile": true,
+    "maxStorage": 79626240000.0,
+    "maxOutput": 71368704.0,
+    "textures": [
+      "panels/botania/symphony/bottom",
+      "panels/botania/symphony/top",
+      "panels/botania/symphony/side",
+      "panels/botania/symphony/side",
+      "panels/botania/symphony/side",
+      "panels/botania/symphony/side"
+    ]
+  },
+  {
+    "name": "Flower",
+    "night": 9.9999e307,
+    "day": 9.9999e307,
+    "ignoreConditions": true,
+    "ignoreChargeLimit": true,
+    "hasTile": false,
+    "maxStorage": 9.9999e307,
+    "maxOutput": 9.9999e307,
+    "textures": [
+      "panels/misc/flower/bottom",
+      "panels/misc/flower/top",
+      "panels/misc/flower/side",
+      "panels/misc/flower/side",
+      "panels/misc/flower/side",
+      "panels/misc/flower/side"
+    ]
+  },
+  {
+    "name": "BloodMagic_1",
+    "night": 98304.0,
+    "day": 196608.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+    "hasTile": true,
+    "maxStorage": 491520000.0,
+    "maxOutput": 393216.0,
+    "textures": [
+      "panels/bloodmagic/1/bottom",
+      "panels/bloodmagic/1/top",
+      "panels/bloodmagic/1/side",
+      "panels/bloodmagic/1/side",
+      "panels/bloodmagic/1/side",
+      "panels/bloodmagic/1/side"
+    ]
+  },
+  {
+    "name": "BloodMagic_2",
+    "night": 294912.0,
+    "day": 589824.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+    "hasTile": true,
+    "maxStorage": 1474560000.0,
+    "maxOutput": 1179648.0,
+    "textures": [
+      "panels/bloodmagic/2/bottom",
+      "panels/bloodmagic/2/top",
+      "panels/bloodmagic/2/side",
+      "panels/bloodmagic/2/side",
+      "panels/bloodmagic/2/side",
+      "panels/bloodmagic/2/side"
+    ]
+  },
+  {
+    "name": "BloodMagic_3",
+    "night": 884736.0,
+    "day": 1769472.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+    "hasTile": true,
+    "maxStorage": 4423680000.0,
+    "maxOutput": 3538944.0,
+    "textures": [
+      "panels/bloodmagic/3/bottom",
+      "panels/bloodmagic/3/top",
+      "panels/bloodmagic/3/side",
+      "panels/bloodmagic/3/side",
+      "panels/bloodmagic/3/side",
+      "panels/bloodmagic/3/side"
+    ]
+  },
+  {
+    "name": "BloodMagic_4",
+    "night": 2654208.0,
+    "day": 5308416.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+    "hasTile": true,
+    "maxStorage": 13271040000.0,
+    "maxOutput": 10616832,
+    "textures": [
+      "panels/bloodmagic/4/bottom",
+      "panels/bloodmagic/4/top",
+      "panels/bloodmagic/4/side",
+      "panels/bloodmagic/4/side",
+      "panels/bloodmagic/4/side",
+      "panels/bloodmagic/4/side"
+    ]
+  },
+  {
+    "name": "BloodMagic_5",
+    "night": 5898240.0,
+    "day": 11796480.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+    "hasTile": true,
+    "maxStorage": 26542080000.0,
+    "maxOutput": 23592960,
+    "textures": [
+      "panels/bloodmagic/5/bottom",
+      "panels/bloodmagic/5/top",
+      "panels/bloodmagic/5/side",
+      "panels/bloodmagic/5/side",
+      "panels/bloodmagic/5/side",
+      "panels/bloodmagic/5/side"
+    ]
+  },
+  {
+    "name": "DivineRPG_1",
+    "night": 98304.0,
+    "day": 196608.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+    "hasTile": true,
+    "maxStorage": 491520000.0,
+    "maxOutput": 393216.0,
+    "textures": [
+      "panels/divinerpg/Eden/bottom",
+      "panels/divinerpg/Eden/top",
+      "panels/divinerpg/Eden/side",
+      "panels/divinerpg/Eden/side",
+      "panels/divinerpg/Eden/side",
+      "panels/divinerpg/Eden/side"
+    ]
+  },
+  {
+    "name": "DivineRPG_2",
+    "night": 294912.0,
+    "day": 589824.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": false,
+    "hasTile": true,
+    "maxStorage": 1474560000.0,
+    "maxOutput": 1179648.0,
+    "textures": [
+      "panels/divinerpg/Twilight/bottom",
+      "panels/divinerpg/Twilight/top",
+      "panels/divinerpg/Twilight/side",
+      "panels/divinerpg/Twilight/side",
+      "panels/divinerpg/Twilight/side",
+      "panels/divinerpg/Twilight/side"
+    ]
+  },
+  {
+    "name": "DivineRPG_3",
+    "night": 884736.0,
+    "day": 1769472.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+    "hasTile": true,
+    "maxStorage": 4423680000.0,
+    "maxOutput": 3538944.0,
+    "textures": [
+      "panels/divinerpg/Apalachi/bottom",
+      "panels/divinerpg/Apalachi/top",
+      "panels/divinerpg/Apalachi/side",
+      "panels/divinerpg/Apalachi/side",
+      "panels/divinerpg/Apalachi/side",
+      "panels/divinerpg/Apalachi/side"
+    ]
+  },
+  {
+    "name": "DivineRPG_4",
+    "night": 2654208.0,
+    "day": 5308416.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+    "hasTile": true,
+    "maxStorage": 13271040000.0,
+    "maxOutput": 10616832,
+    "textures": [
+      "panels/divinerpg/Heaven/bottom",
+      "panels/divinerpg/Heaven/top",
+      "panels/divinerpg/Heaven/side",
+      "panels/divinerpg/Heaven/side",
+      "panels/divinerpg/Heaven/side",
+      "panels/divinerpg/Heaven/side"
+    ]
+  },
+  {
+    "name": "DivineRPG_5",
+    "night": 7962624.0,
+    "day": 15925248.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+    "hasTile": true,
+    "maxStorage": 39813120000.0,
+    "maxOutput": 31850496,
+    "textures": [
+      "panels/divinerpg/Mortrum/bottom",
+      "panels/divinerpg/Mortrum/top",
+      "panels/divinerpg/Mortrum/side",
+      "panels/divinerpg/Mortrum/side",
+      "panels/divinerpg/Mortrum/side",
+      "panels/divinerpg/Mortrum/side"
+    ]
+  },
+  {
+    "name": "DivineRPG_6",
+    "night": 17842176.0,
+    "day": 35684352.0,
+    "ignoreConditions": false,
+    "ignoreChargeLimit": true,
+    "hasTile": true,
+    "maxStorage": 79626240000.0,
+    "maxOutput": 71368704,
+    "textures": [
+      "panels/divinerpg/Halite/bottom",
+      "panels/divinerpg/Halite/top",
+      "panels/divinerpg/Halite/side",
+      "panels/divinerpg/Halite/side",
+      "panels/divinerpg/Halite/side",
+      "panels/divinerpg/Halite/side"
+    ]
+  }
+]

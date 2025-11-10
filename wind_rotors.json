@@ -1,0 +1,26 @@
+[
+  {
+    "name": "iridium",
+    "radius": 11,
+    "durability": 1209600,
+    "efficiency": 160.0,
+    "minWindStrength": 10.0,
+    "maxWindStrength": 120.0
+  },
+  {
+    "name": "quantum",
+    "radius": 11,
+    "durability": 2419200,
+    "efficiency": 320.0,
+    "minWindStrength": 10.0,
+    "maxWindStrength": 120.0
+  },
+  {
+    "name": "ultimate",
+    "radius": 11,
+    "durability": 4838400,
+    "efficiency": 640.0,
+    "minWindStrength": 10.0,
+    "maxWindStrength": 120.0
+  }
+]

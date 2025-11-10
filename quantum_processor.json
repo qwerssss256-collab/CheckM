@@ -1,0 +1,86 @@
+{
+  "storages": [
+    {
+      "name": "appliedenergistics2:tile.BlockCraftingStorage",
+      "meta": 0,
+      "amount": 1024
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockCraftingStorage",
+      "meta": 1,
+      "amount": 4096
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockCraftingStorage",
+      "meta": 2,
+      "amount": 16384
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockCraftingStorage",
+      "meta": 3,
+      "amount": 65536
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingStorage",
+      "meta": 0,
+      "amount": 262144
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingStorage",
+      "meta": 1,
+      "amount": 1048576
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingStorage",
+      "meta": 2,
+      "amount": 4194304
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingStorage",
+      "meta": 3,
+      "amount": 16777216
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockSingularityCraftingStorage",
+      "meta": 0,
+      "amount": 9223372036854775807
+    }
+  ],
+  "accelerators": [
+    {
+      "name": "appliedenergistics2:tile.BlockCraftingUnit",
+      "meta": 1,
+      "amount": 1
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockCraftingUnit",
+      "meta": 2,
+      "amount": 4
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockCraftingUnit",
+      "meta": 3,
+      "amount": 16
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingUnit",
+      "meta": 0,
+      "amount": 64
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingUnit",
+      "meta": 1,
+      "amount": 256
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingUnit",
+      "meta": 2,
+      "amount": 1024
+    },
+    {
+      "name": "appliedenergistics2:tile.BlockAdvancedCraftingUnit",
+      "meta": 3,
+      "amount": 4096
+    }
+  ]
+}

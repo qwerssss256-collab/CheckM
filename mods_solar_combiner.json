@@ -1,0 +1,236 @@
+{
+  "liquidCombiner": [
+    {
+      "name": "blood",
+      "fuelName": "life essence",
+      "fuelAmountPerTick": 10000,
+      "fuelCapacity": 1000000,
+      "energyMultiplier": 2.0,
+      "specialBufferCapacity": 5.0E12,
+      "specialOutputName": {
+        "name": "metatweaker:MiscShard",
+        "meta": 4,
+        "amount": 1
+      },
+      "panels": [
+        {
+          "name": "metaadvanced:solarPanelBloodMagic_1",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBloodMagic_2",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBloodMagic_3",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBloodMagic_4",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBloodMagic_5",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelIC2_14",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "name": "divine",
+      "fuelName": "drpgliquid",
+      "fuelAmountPerTick": 50,
+      "fuelCapacity": 1000000,
+      "energyMultiplier": 2.0,
+      "specialBufferCapacity": 5.0E12,
+      "specialOutputName": {
+        "name": "metatweaker:MiscShard",
+        "meta": 0,
+        "amount": 1
+      },
+      "panels": [
+        {
+          "name": "metaadvanced:solarPanelDivineRPG_1",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelDivineRPG_2",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelDivineRPG_3",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelDivineRPG_4",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelDivineRPG_5",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelDivineRPG_6",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelIC2_14",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "name": "forestry",
+      "fuelName": "eternalhoney",
+      "fuelAmountPerTick": 100,
+      "fuelCapacity": 1000000,
+      "energyMultiplier": 2.0,
+      "specialBufferCapacity": 1.5E13,
+      "specialOutputName": {
+        "name": "metatweaker:MiscShard",
+        "meta": 2,
+        "amount": 1
+      },
+      "panels": [
+        {
+          "name": "metaadvanced:solarPanelForestry_1",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_2",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_3",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_4",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_5",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_6",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_7",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_8",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelForestry_9",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelF_Emerald",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelF_B_Emerald",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelIC2_14",
+          "meta": 0
+        }
+      ]
+    }
+  ],
+  "manaCombiner": [
+    {
+      "name": "mana",
+      "fuelAmountPerTick": 1000000,
+      "fuelCapacity": 1000000000,
+      "energyMultiplier": 2.0,
+      "manaReceiveRange": 10,
+      "specialBufferCapacity": 5.0E12,
+      "specialOutputName": {
+        "name": "metatweaker:MiscShard",
+        "meta": 1,
+        "amount": 1
+      },
+      "panels": [
+        {
+          "name": "metaadvanced:solarPanelBotania_1",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBotania_2",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBotania_3",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBotania_4",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBotania_5",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelBotania_6",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelIC2_14",
+          "meta": 0
+        }
+      ]
+    }
+  ],
+  "thaumCombiner": [
+    {
+      "name": "thaum",
+      "fuelAmountPerTick": 100,
+      "aspectDrainRate": 50000,
+      "aspectDrainRange": 8,
+      "fuelCapacity": 1000000,
+      "energyMultiplier": 2.0,
+      "specialBufferCapacity": 5.0E12,
+      "specialOutputName": {
+        "name": "metatweaker:MiscShard",
+        "meta": 3,
+        "amount": 1
+      },
+      "panels": [
+        {
+          "name": "metaadvanced:solarPanelThaumcraft_1",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelThaumcraft_2",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelThaumcraft_3",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelThaumcraft_4",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelThaumcraft_5",
+          "meta": 0
+        },
+        {
+          "name": "metaadvanced:solarPanelIC2_14",
+          "meta": 0
+        }
+      ]
+    }
+  ]
+}

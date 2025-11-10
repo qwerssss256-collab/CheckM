@@ -1,0 +1,8 @@
+{
+  "gui": {
+    "_comment_texture_visual_gui": "Путь к гуишке",
+    "texture_visual_gui": "textures/gui/energynet/netenergy_info.png",
+    "_comment_texture_tile_gui": "Путь к гуишке тайла",
+    "texture_tile_gui": "textures/gui/energynet/tile_gui.png"
+  }
+}

@@ -1,0 +1,2935 @@
+{
+  "digRadius": 2,
+  "cellsUpgradeCost": 250,
+  "minionsMap": {
+    "draconic": {
+      "itemGenerationName": "Дракониевая пыль",
+      "itemGenerationId": "DraconicEvolution:draconiumDust",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Дракониевая руда",
+      "blockPlaceId": "DraconicEvolution:draconiumOre",
+      "blockPlaceMeta": 0,
+      "displayName": "Дракониевый миньон",
+      "displayItem": "DraconicEvolution:draconiumDust",
+      "description": "Может позвать Дэвиона?",
+      "levels": {
+        "1": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "DraconicEvolution:draconiumIngot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 13,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "DraconicEvolution:draconiumIngot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "DraconicEvolution:draconiumIngot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 11,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "DraconicEvolution:draconiumIngot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_draconium_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 9,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_draconium_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_draconium_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 7,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_draconium_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 6,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_draconium_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 4,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_draconium_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 2,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_draconium_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "crystal_order": {
+      "itemGenerationName": "Кристалл порядка",
+      "itemGenerationId": "Thaumcraft:ItemShard",
+      "itemGenerationMeta": 4,
+      "blockPlaceName": "Руда кристалла порядка",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 5,
+      "displayName": "Кристалл порядка",
+      "displayItem": "metacontent:enchanted_ordo_crystal",
+      "description": "Почти серый))",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_ordo_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_ordo_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_ordo_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_ordo_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_ordo_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_ordo_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_ordo_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "mercury": {
+      "itemGenerationName": "Ртуть",
+      "itemGenerationId": "Thaumcraft:ItemResource",
+      "itemGenerationMeta": 3,
+      "blockPlaceName": "Киноварь",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 0,
+      "displayName": "Ртутный Миньон",
+      "displayItem": "metacontent:enchanted_quick_silver",
+      "description": "Градусника же тут нет.. Зачем она?",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 15,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_quick_silver",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_quick_silver",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_quick_silver",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_quick_silver",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 8,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_quick_silver",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_quick_silver",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 6,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_quick_silver",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "certus_quartz": {
+      "itemGenerationName": "Истинный кварц",
+      "itemGenerationId": "appliedenergistics2:item.ItemMultiMaterial",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Руда истинного кварца",
+      "blockPlaceId": "appliedenergistics2:tile.OreQuartz",
+      "blockPlaceMeta": 0,
+      "displayName": "Кварцевый миньон (AE2)",
+      "displayItem": "appliedenergistics2:item.ItemMultiMaterial",
+      "description": "Расширенние терр..МЭ-системы!",
+      "levels": {
+        "1": {
+          "actionDelay": 22,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "appliedenergistics2:item.ItemMultiMaterial",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 21,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "appliedenergistics2:item.ItemMultiMaterial",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 20,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "appliedenergistics2:item.ItemMultiMaterial",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 19,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "appliedenergistics2:item.ItemMultiMaterial",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 18,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_certus_quartz_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 17,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_certus_quartz_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 16,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_certus_quartz_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 14,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_certus_quartz_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 12,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_certus_quartz_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 10,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_certus_quartz_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 8,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_certus_quartz_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "cobalt": {
+      "itemGenerationName": "Кобальтовый слиток",
+      "itemGenerationId": "TConstruct:materials",
+      "itemGenerationMeta": 3,
+      "blockPlaceName": "Кобальтовая руда",
+      "blockPlaceId": "TConstruct:SearedBrick",
+      "blockPlaceMeta": 1,
+      "displayName": "Кобальтовый миньон",
+      "displayItem": "metacontent:enchanted_cobalt_ingot",
+      "description": "Кобальт, как так-то?",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_cobalt_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_cobalt_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_cobalt_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_cobalt_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_cobalt_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_cobalt_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_cobalt_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "crystal_entropic": {
+      "itemGenerationName": "Энтропийный кристалл",
+      "itemGenerationId": "Thaumcraft:ItemShard",
+      "itemGenerationMeta": 5,
+      "blockPlaceName": "Энтропийная руда",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 6,
+      "displayName": "Энтропийный кристалл",
+      "displayItem": "metacontent:enchanted_perditio_crystal",
+      "description": "Темный. Все. Конец.",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_perditio_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_perditio_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_perditio_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_perditio_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_perditio_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_perditio_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_perditio_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "glowstone": {
+      "itemGenerationName": "Светящийся камень",
+      "itemGenerationId": "minecraft:glowstone",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Светящийся камень",
+      "blockPlaceId": "minecraft:glowstone",
+      "blockPlaceMeta": 0,
+      "displayName": "Светокаменный миньон",
+      "displayItem": "minecraft:glowstone_dust",
+      "description": "Это, блин, глоустоун..",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 15,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "minecraft:glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 8,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 6,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_glowstone_dust",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "gold": {
+      "itemGenerationName": "Золотая руда",
+      "itemGenerationId": "minecraft:gold_ore",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Золотая руда",
+      "blockPlaceId": "minecraft:gold_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Золотой миньон",
+      "displayItem": "minecraft:gold_ingot",
+      "description": "Золото.. Нужно больше золота!",
+      "levels": {
+        "1": {
+          "actionDelay": 22,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 21,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "3": {
+          "actionDelay": 20,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "4": {
+          "actionDelay": 19,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "5": {
+          "actionDelay": 18,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "6": {
+          "actionDelay": 17,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "7": {
+          "actionDelay": 16,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "8": {
+          "actionDelay": 14,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "9": {
+          "actionDelay": 12,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "10": {
+          "actionDelay": 10,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        },
+        "11": {
+          "actionDelay": 8,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_gold_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        }
+      }
+    },
+    "platinum": {
+      "itemGenerationName": "Платиновая руда",
+      "itemGenerationId": "ThermalFoundation:Ore",
+      "itemGenerationMeta": 5,
+      "blockPlaceName": "Платиновая руда",
+      "blockPlaceId": "ThermalFoundation:Ore",
+      "blockPlaceMeta": 5,
+      "displayName": "Платиновый миньон",
+      "displayItem": "metacontent:enchanted_platinum_ingot",
+      "description": "Так блестит..",
+      "levels": {
+        "1": {
+          "actionDelay": 22,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 69,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 21,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 69,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 20,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 69,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 19,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 69,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 18,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_platinum_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 17,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_platinum_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 16,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_platinum_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 14,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_platinum_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 12,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_platinum_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 10,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_platinum_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 8,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_platinum_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "tin": {
+      "itemGenerationName": "Оловянная руда",
+      "itemGenerationId": "IC2:blockOreTin",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Оловянная руда",
+      "blockPlaceId": "IC2:blockOreTin",
+      "blockPlaceMeta": 0,
+      "displayName": "Оловянный миньон",
+      "displayItem": "metacontent:enchanted_tin_ingot",
+      "description": "Правила русского языка помнишь?",
+      "levels": {
+        "1": {
+          "actionDelay": 18,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 1,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 1,
+          "upgradeItemAmount": 256
+        },
+        "3": {
+          "actionDelay": 15,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 1,
+          "upgradeItemAmount": 512
+        },
+        "4": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "5": {
+          "actionDelay": 13,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "6": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "7": {
+          "actionDelay": 11,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "8": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "9": {
+          "actionDelay": 9,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        },
+        "11": {
+          "actionDelay": 5,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_tin_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        }
+      }
+    },
+    "copper": {
+      "itemGenerationName": "Медная руда",
+      "itemGenerationId": "IC2:blockOreCopper",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Медная руда",
+      "blockPlaceId": "IC2:blockOreCopper",
+      "blockPlaceMeta": 0,
+      "displayName": "Медный миньон",
+      "displayItem": "IC2:itemIngot",
+      "description": "А сколько стоит 1КГ меди?",
+      "levels": {
+        "1": {
+          "actionDelay": 18,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "3": {
+          "actionDelay": 15,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "4": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "5": {
+          "actionDelay": 13,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "6": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "7": {
+          "actionDelay": 11,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "8": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "9": {
+          "actionDelay": 9,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        },
+        "11": {
+          "actionDelay": 5,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_copper_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        }
+      }
+    },
+    "lapis": {
+      "itemGenerationName": "Лазурит",
+      "itemGenerationId": "minecraft:dye",
+      "itemGenerationMeta": 4,
+      "blockPlaceName": "Лазуритовая руда",
+      "blockPlaceId": "minecraft:lapis_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Лазуритовый миньон",
+      "displayItem": "metacontent:enchanted_lapis",
+      "description": "Синий.. Добавить бы желтый?:)",
+      "levels": {
+        "1": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:dye",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 13,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:dye",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:dye",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 11,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "minecraft:dye",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_lapis",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 9,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_lapis",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_lapis",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 7,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_lapis",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 6,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_lapis",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 4,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_lapis",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 2,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_lapis",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "ardite": {
+      "itemGenerationName": "Ардитовый слиток",
+      "itemGenerationId": "TConstruct:materials",
+      "itemGenerationMeta": 4,
+      "blockPlaceName": "Ардитовая руда",
+      "blockPlaceId": "TConstruct:SearedBrick",
+      "blockPlaceMeta": 2,
+      "displayName": "Ардитовый миньон",
+      "displayItem": "metacontent:enchanted_ardite_ingot",
+      "description": "А я медного хотел...",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "TConstruct:materials",
+          "upgradeItemMeta": 4,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_ardite_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_ardite_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_ardite_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_ardite_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_ardite_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_ardite_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_ardite_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "crystal_ice": {
+      "itemGenerationName": "Ледяной кристалл",
+      "itemGenerationId": "Thaumcraft:ItemShard",
+      "itemGenerationMeta": 2,
+      "blockPlaceName": "Ледяная руда",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 3,
+      "displayName": "Ледяной кристалл",
+      "displayItem": "metacontent:enchanted_ice_crystal",
+      "description": "Ага, он тоже.. Оо",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 2,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 2,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 2,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 2,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_ice_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_ice_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_ice_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_ice_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_ice_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_ice_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_ice_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "nickel": {
+      "itemGenerationName": "Никелевая руда",
+      "itemGenerationId": "ThermalFoundation:Ore",
+      "itemGenerationMeta": 4,
+      "blockPlaceName": "Никелевая руда",
+      "blockPlaceId": "ThermalFoundation:Ore",
+      "blockPlaceMeta": 4,
+      "displayName": "Никелевый миньон",
+      "displayItem": "metacontent:enchanted_nickel_ingot",
+      "description": "Так получилось, блин..",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 68,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 15,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 68,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 68,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 68,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_nickel_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_nickel_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_nickel_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_nickel_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 8,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_nickel_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_nickel_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 112
+        },
+        "11": {
+          "actionDelay": 6,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_nickel_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        }
+      }
+    },
+    "obsidian": {
+      "itemGenerationName": "Обсидиан",
+      "itemGenerationId": "minecraft:obsidian",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Обсидиан",
+      "blockPlaceId": "minecraft:obsidian",
+      "blockPlaceMeta": 0,
+      "displayName": "Обсидиановый миньон",
+      "displayItem": "metacontent:enchanted_obsidian",
+      "description": "Обсидиан. Да.",
+      "levels": {
+        "1": {
+          "actionDelay": 18,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 15,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "minecraft:obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 13,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 11,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 9,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 5,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_obsidian",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "nether_quartz": {
+      "itemGenerationName": "Кварц",
+      "itemGenerationId": "minecraft:quartz",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Кварцевая руда",
+      "blockPlaceId": "minecraft:quartz_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Кварцевый миньон (Ад)",
+      "displayItem": "minecraft:quartz",
+      "description": "Жарковато становится..",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "minecraft:quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_quartz",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "crystal_fire": {
+      "itemGenerationName": "Огненный кристалл",
+      "itemGenerationId": "Thaumcraft:ItemShard",
+      "itemGenerationMeta": 1,
+      "blockPlaceName": "Огненная руда",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 2,
+      "displayName": "Огненный кристалл",
+      "displayItem": "metacontent:enchanted_fire_crystal",
+      "description": "Почему он желтый? Оо",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 1,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 1,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 1,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 1,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_fire_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_fire_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_fire_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_fire_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_fire_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_fire_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_fire_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "amber": {
+      "itemGenerationName": "Янтарь",
+      "itemGenerationId": "Thaumcraft:ItemResource",
+      "itemGenerationMeta": 6,
+      "blockPlaceName": "Янтарная руда",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 7,
+      "displayName": "Янтарный Миньон",
+      "displayItem": "metacontent:enchanted_amber",
+      "description": "Он не дает стабильность)",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 6,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 15,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 6,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 6,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemResource",
+          "upgradeItemMeta": 6,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_amber",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_amber",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_amber",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_amber",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 8,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_amber",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_amber",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 112
+        },
+        "11": {
+          "actionDelay": 6,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_amber",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        }
+      }
+    },
+    "crystal_earth": {
+      "itemGenerationName": "Земляной кристалл",
+      "itemGenerationId": "Thaumcraft:ItemShard",
+      "itemGenerationMeta": 3,
+      "blockPlaceName": "Руда земляного кристалла",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 4,
+      "displayName": "Земляной кристалл",
+      "displayItem": "metacontent:enchanted_earth_crystal",
+      "description": "Ну, зеленый же!",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 3,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_earth_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_earth_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_earth_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_earth_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_earth_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_earth_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_earth_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "lead": {
+      "itemGenerationName": "Свинцовая руда",
+      "itemGenerationId": "IC2:blockOreLead",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Свинцовая руда",
+      "blockPlaceId": "IC2:blockOreLead",
+      "blockPlaceMeta": 0,
+      "displayName": "Свинцовый миньон",
+      "displayItem": "metacontent:enchanted_lead_ingot",
+      "description": "Нашпигуем тебя свинцом..",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 15,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "IC2:itemIngot",
+          "upgradeItemMeta": 5,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_lead_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_lead_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_lead_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_lead_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 8,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_lead_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_lead_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 112
+        },
+        "11": {
+          "actionDelay": 6,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_lead_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        }
+      }
+    },
+    "crystal_thunder": {
+      "itemGenerationName": "Грозовой кристалл",
+      "itemGenerationId": "Thaumcraft:ItemShard",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Грозовая руда",
+      "blockPlaceId": "Thaumcraft:blockCustomOre",
+      "blockPlaceMeta": 1,
+      "displayName": "Грозовой кристалл",
+      "displayItem": "metacontent:enchanted_aer_crystal",
+      "description": "Дальше будет радуга..",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "Thaumcraft:ItemShard",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_aer_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_aer_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_aer_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_aer_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 7,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_aer_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 6,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_aer_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 4,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_aer_crystal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "diamond": {
+      "itemGenerationName": "Алмазы",
+      "itemGenerationId": "minecraft:diamond",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Алмазная руда",
+      "blockPlaceId": "minecraft:diamond_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Алмазный миньон",
+      "displayItem": "minecraft:diamond",
+      "description": "Алмазов много не бывает..",
+      "levels": {
+        "1": {
+          "actionDelay": 18,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 15,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "minecraft:diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 13,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 11,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 9,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 5,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_diamond",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "iron": {
+      "itemGenerationName": "Железная руда",
+      "itemGenerationId": "minecraft:iron_ore",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Железная руда",
+      "blockPlaceId": "minecraft:iron_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Железный миньон",
+      "displayItem": "minecraft:iron_ingot",
+      "description": "Железко :з",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 15,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "3": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "4": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "5": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "6": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "7": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "8": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "9": {
+          "actionDelay": 8,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        },
+        "11": {
+          "actionDelay": 6,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_iron_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        }
+      }
+    },
+    "coal": {
+      "itemGenerationName": "Уголь",
+      "itemGenerationId": "minecraft:coal",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Угольная руда",
+      "blockPlaceId": "minecraft:coal_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Угольный миньон",
+      "displayItem": "minecraft:coal",
+      "description": "Черный? Нет. Каменный..",
+      "levels": {
+        "1": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 15,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "3": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "4": {
+          "actionDelay": 13,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "5": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "6": {
+          "actionDelay": 11,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "7": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "8": {
+          "actionDelay": 9,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "9": {
+          "actionDelay": 8,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        },
+        "11": {
+          "actionDelay": 6,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_coal",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        }
+      }
+    },
+    "silver": {
+      "itemGenerationName": "Серебряная руда",
+      "itemGenerationId": "ThermalFoundation:Ore",
+      "itemGenerationMeta": 2,
+      "blockPlaceName": "Серебряная руда",
+      "blockPlaceId": "ThermalFoundation:Ore",
+      "blockPlaceMeta": 2,
+      "displayName": "Серебряный миньон",
+      "displayItem": "metacontent:enchanted_silver_ingot",
+      "description": "Опять не правильное отображение..",
+      "levels": {
+        "1": {
+          "actionDelay": 22,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 66,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 21,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 66,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 20,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 66,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 19,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "ThermalFoundation:material",
+          "upgradeItemMeta": 66,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 18,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_silver_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 17,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_silver_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 16,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_silver_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 14,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_silver_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 12,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_silver_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 10,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_silver_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 112
+        },
+        "11": {
+          "actionDelay": 9,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_silver_ingot",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        }
+      }
+    },
+    "uranium": {
+      "itemGenerationName": "Урановая руда",
+      "itemGenerationId": "IC2:blockOreUran",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Урановая руда",
+      "blockPlaceId": "IC2:blockOreUran",
+      "blockPlaceMeta": 0,
+      "displayName": "Урановый миньон",
+      "displayItem": "metacontent:enchanted_uranium",
+      "description": "Вспомним 86ой?",
+      "levels": {
+        "1": {
+          "actionDelay": 20,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "AdvancedSolarPanel:asp_crafting_items",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 19,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "AdvancedSolarPanel:asp_crafting_items",
+          "upgradeItemMeta": 11,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 18,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "AdvancedSolarPanel:asp_crafting_items",
+          "upgradeItemMeta": 11,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 17,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "AdvancedSolarPanel:asp_crafting_items",
+          "upgradeItemMeta": 11,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 16,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_uranium",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 15,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_uranium",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 24
+        },
+        "7": {
+          "actionDelay": 14,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_uranium",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "8": {
+          "actionDelay": 13,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_uranium",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 40
+        },
+        "9": {
+          "actionDelay": 12,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_uranium",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "10": {
+          "actionDelay": 11,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_uranium",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 56
+        },
+        "11": {
+          "actionDelay": 9,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_uranium",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        }
+      }
+    },
+    "redstone": {
+      "itemGenerationName": "Красная пыль",
+      "itemGenerationId": "minecraft:redstone",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Красная руда",
+      "blockPlaceId": "minecraft:redstone_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Редстоун миньон",
+      "displayItem": "minecraft:redstone",
+      "description": "А может редстоун? а?",
+      "levels": {
+        "1": {
+          "actionDelay": 14,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 13,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 12,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 11,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "minecraft:redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 10,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 9,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 8,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 7,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 6,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 4,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 2,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_redstone",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    },
+    "emerald": {
+      "itemGenerationName": "Изумруды",
+      "itemGenerationId": "minecraft:emerald",
+      "itemGenerationMeta": 0,
+      "blockPlaceName": "Изумрудная руда",
+      "blockPlaceId": "minecraft:emerald_ore",
+      "blockPlaceMeta": 0,
+      "displayName": "Изумрудный миньон",
+      "displayItem": "minecraft:emerald",
+      "description": "Изюмыы...",
+      "levels": {
+        "1": {
+          "actionDelay": 18,
+          "availableSlots": 2,
+          "upgradeCost": 0,
+          "upgradeItem": "minecraft:emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 0
+        },
+        "2": {
+          "actionDelay": 16,
+          "availableSlots": 2,
+          "upgradeCost": 15,
+          "upgradeItem": "minecraft:emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "3": {
+          "actionDelay": 15,
+          "availableSlots": 4,
+          "upgradeCost": 35,
+          "upgradeItem": "minecraft:emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 256
+        },
+        "4": {
+          "actionDelay": 14,
+          "availableSlots": 4,
+          "upgradeCost": 55,
+          "upgradeItem": "minecraft:emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 512
+        },
+        "5": {
+          "actionDelay": 13,
+          "availableSlots": 6,
+          "upgradeCost": 75,
+          "upgradeItem": "metacontent:enchanted_emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 16
+        },
+        "6": {
+          "actionDelay": 12,
+          "availableSlots": 6,
+          "upgradeCost": 95,
+          "upgradeItem": "metacontent:enchanted_emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 32
+        },
+        "7": {
+          "actionDelay": 11,
+          "availableSlots": 8,
+          "upgradeCost": 115,
+          "upgradeItem": "metacontent:enchanted_emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 48
+        },
+        "8": {
+          "actionDelay": 10,
+          "availableSlots": 8,
+          "upgradeCost": 135,
+          "upgradeItem": "metacontent:enchanted_emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 64
+        },
+        "9": {
+          "actionDelay": 9,
+          "availableSlots": 10,
+          "upgradeCost": 155,
+          "upgradeItem": "metacontent:enchanted_emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 96
+        },
+        "10": {
+          "actionDelay": 7,
+          "availableSlots": 12,
+          "upgradeCost": 175,
+          "upgradeItem": "metacontent:enchanted_emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 128
+        },
+        "11": {
+          "actionDelay": 5,
+          "availableSlots": 16,
+          "upgradeCost": 195,
+          "upgradeItem": "metacontent:enchanted_emerald",
+          "upgradeItemMeta": 0,
+          "upgradeItemAmount": 192
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Realmite",
+    "maxCharge": 1500000,
+    "maxChargeGravi": 4000000,
+    "transferLimit": 7500.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 800
+  },
+  {
+    "name": "Arlemite",
+    "maxCharge": 2250000,
+    "maxChargeGravi": 5000000,
+    "transferLimit": 11250.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 800
+  },
+  {
+    "name": "Rupium",
+    "maxCharge": 3500000,
+    "maxChargeGravi": 8000000,
+    "transferLimit": 16875.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 800
+  }
+]

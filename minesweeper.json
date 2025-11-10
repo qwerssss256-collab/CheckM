@@ -1,0 +1,34 @@
+{
+  "allow_currencies": [
+    "gold",
+    "gem"
+  ],
+  "default_selected_currency": "gem",
+  "default_bets": {
+    "gold": 1000,
+    "gem": 15,
+    "rub": 10
+  },
+  "bomb_icon_location": "metagames:textures/gui/elements/bomb.png",
+  "unknown_icon_location": "metagames:textures/gui/elements/unknown.png",
+  "pane_background": "metagames:textures/gui/pane_background.png",
+  "min_multiplier_for_broadcast": {
+    "gold": 3.0,
+    "gem": 3.0,
+    "rub": 3.0
+  },
+  "min_reward_for_broadcast": {
+    "gold": 1000,
+    "gem": 0,
+    "rub": 0
+  },
+  "max_bets": {
+    "gem": 5000,
+    "rub": 1000
+  },
+  "cards": {
+    "bomb_background_location": "metagames:textures/gui/elements/cards/bomb.png",
+    "currency_background_location": "metagames:textures/gui/elements/cards/currency.png",
+    "unknown_background_location": "metagames:textures/gui/elements/cards/unknown.png"
+  }
+}

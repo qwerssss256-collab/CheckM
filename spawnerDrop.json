@@ -1,0 +1,446 @@
+{
+  "WitherBoss": {
+    "energy": 10000000.0,
+    "items": [
+      {
+        "id": "minecraft:nether_star",
+        "meta": 0,
+        "nbt": "",
+        "chance": 83,
+        "dropCount": 2,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "Botania.botania:doppleganger": {
+    "energy": 15000000.0,
+    "items": [
+      {
+        "id": "Botania:manaResource",
+        "meta": 5,
+        "nbt": "",
+        "chance": 69,
+        "dropCount": 4,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:AlfheimEssence",
+        "meta": 0,
+        "nbt": "",
+        "chance": 60,
+        "dropCount": 3,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:NiflheimEssence",
+        "meta": 0,
+        "nbt": "",
+        "chance": 60,
+        "dropCount": 3,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:MuspelheimEssence",
+        "meta": 0,
+        "nbt": "",
+        "chance": 60,
+        "dropCount": 3,
+        "addTag": false
+      },
+      {
+        "id": "Botania:gaiaHead",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.05,
+        "dropCount": 1,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.AirDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:air_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.2,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 1,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.ElectricDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:electric_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.2,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 5,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.EarthDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:earth_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.2,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.ChaoticDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:chaos_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 3,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 7,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.FireDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:fire_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.2,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 4,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.NatureDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:nature_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.2,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 2,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.IceDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:ice_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.2,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 3,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "metadragons.LightDragon": {
+    "energy": 40000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 1.1,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metacontent:light_crystal1",
+        "meta": 0,
+        "nbt": "",
+        "chance": 0.2,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:DragonScale",
+        "meta": 6,
+        "nbt": "",
+        "chance": 1.9,
+        "dropCount": 1,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "DraconicEvolution.EnderDragon": {
+    "energy": 10000000.0,
+    "items": [
+      {
+        "id": "DraconicEvolution:dragonHeart",
+        "meta": 0,
+        "nbt": "",
+        "chance": 2,
+        "dropCount": 1,
+        "addTag": false
+      },
+	  {
+        "id": "metatweaker:CompressedDraconiumOre",
+        "meta": 0,
+        "nbt": "",
+        "chance": 69,
+        "dropCount": 4,
+        "addTag": false
+      },
+	  {
+        "id": "metatweaker:ConcentratedHydraOre",
+        "meta": 0,
+        "nbt": "",
+        "chance": 69,
+        "dropCount": 4,
+        "addTag": false
+      },
+	  {
+        "id": "metatweaker:ConcentratedWyvernOre",
+        "meta": 0,
+        "nbt": "",
+        "chance": 69,
+        "dropCount": 4,
+        "addTag": false
+      },
+      {
+        "id": "TConstruct:heartCanister",
+        "meta": 3,
+        "nbt": "",
+        "chance": 65,
+        "dropCount": 2,
+        "addTag": false
+      }
+    ]
+  },
+  "Demon_Village": {
+    "energy": 1500000.0,
+    "items": [
+      {
+        "id": "AWWayofTime:bloodMagicBaseItems",
+        "meta": 28,
+        "nbt": "",
+        "chance": 55.5,
+        "dropCount": 6,
+        "addTag": false
+      },
+      {
+        "id": "AWWayofTime:bloodMagicBaseItems",
+        "meta": 29,
+        "nbt": "",
+        "chance": 55.5,
+        "dropCount": 6,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:ShardItems",
+        "meta": 0,
+        "nbt": "",
+        "chance": 55.5,
+        "dropCount": 6,
+        "addTag": false
+      },
+      {
+        "id": "metatweaker:ShardItems",
+        "meta": 1,
+        "nbt": "",
+        "chance": 55.5,
+        "dropCount": 6,
+        "addTag": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Edem",
+    "maxCharge": 15000000,
+    "maxChargeGravi": 40000000,
+    "transferLimit": 75000.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 900,
+    "ignoreDamageTypes": [],
+    "noByPassDamageTypes": []
+  },
+  {
+    "name": "Wildwood",
+    "maxCharge": 22500000,
+    "maxChargeGravi": 60000000,
+    "transferLimit": 112500.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 900,
+    "ignoreDamageTypes": [],
+    "noByPassDamageTypes": []
+  },
+  {
+    "name": "Apalachia",
+    "maxCharge": 33750000,
+    "maxChargeGravi": 90000000,
+    "transferLimit": 168750.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 900,
+    "ignoreDamageTypes": [],
+    "noByPassDamageTypes": []
+  },
+  {
+    "name": "Skyunder",
+    "maxCharge": 50000000,
+    "maxChargeGravi": 135000000,
+    "transferLimit": 250000.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 900,
+    "ignoreDamageTypes": [],
+    "noByPassDamageTypes": []
+  },
+  {
+    "name": "Mortrum",
+    "maxCharge": 75000000,
+    "maxChargeGravi": 200000000,
+    "transferLimit": 375000.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 900,
+    "ignoreDamageTypes": [],
+    "noByPassDamageTypes": []
+  },
+  {
+    "name": "Halite",
+    "maxCharge": 125000000,
+    "maxChargeGravi": 350000000,
+    "transferLimit": 625000.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 900,
+    "ignoreDamageTypes": [],
+    "noByPassDamageTypes": []
+  },
+  {
+    "name": "Admin",
+    "maxCharge": 2147483647,
+    "maxChargeGravi": 2147483647,
+    "transferLimit": 2147483647.0,
+    "absorptionRatio": 1.0,
+    "energyPerDamage": 1,
+    "ignoreDamageTypes": [
+      "magic"
+    ],
+    "noByPassDamageTypes": [
+      "inFire"
+    ],
+    "streakRender": true,
+    "streakName": "tron",
+    "streakColor": 16711935,
+    "streakRainbow": true
+  }
+]

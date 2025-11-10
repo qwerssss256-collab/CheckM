@@ -1,0 +1,35 @@
+{
+  "_comment_ingot": "Настройки дропа для слитка",
+  "ingot": {
+    "stack": {
+      "id": "metatweaker:NeutroniumItems",
+      "meta": 2,
+      "amount": 1,
+      "nbt": ""
+    },
+    "_comment_chance": "Шанс дропа в % [0-100]",
+    "chance": 5
+  },
+  "_comment_nugget": "Настройки дропа для самородка",
+  "nugget": {
+    "stack": {
+      "id": "metatweaker:NeutroniumItems",
+      "meta": 1,
+      "amount": 1,
+      "nbt": ""
+    },
+    "_comment_chance": "Шанс дропа в % [0-100]",
+    "chance": 5
+  },
+  "_comment_dust": "Настройки дропа для пыли",
+  "dust": {
+    "stack": {
+      "id": "metatweaker:NeutroniumItems",
+      "meta": 0,
+      "amount": 1,
+      "nbt": ""
+    },
+    "_comment_chance": "Шанс дропа в % [0-100]",
+    "chance": 5
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "level": 1,
+    "capacity": 1000000.0,
+    "generation": 2500.0,
+    "output": 5000.0,
+    "textureIndex": 1
+  },
+  {
+    "level": 2,
+    "capacity": 2000000.0,
+    "generation": 5000.0,
+    "output": 10000.0,
+    "textureIndex": 1
+  },
+  {
+    "level": 3,
+    "capacity": 4000000.0,
+    "generation": 10000.0,
+    "output": 20000.0,
+    "textureIndex": 1
+  },
+  {
+    "level": 4,
+    "capacity": 8000000.0,
+    "generation": 20000.0,
+    "output": 40000.0,
+    "textureIndex": 2
+  },
+  {
+    "level": 5,
+    "capacity": 1.6E7,
+    "generation": 40000.0,
+    "output": 80000.0,
+    "textureIndex": 2
+  },
+  {
+    "level": 6,
+    "capacity": 3.2E7,
+    "generation": 80000.0,
+    "output": 160000.0,
+    "textureIndex": 2
+  },
+  {
+    "level": 7,
+    "capacity": 6.4E7,
+    "generation": 160000.0,
+    "output": 320000.0,
+    "textureIndex": 3
+  },
+  {
+    "level": 8,
+    "capacity": 1.28E8,
+    "generation": 320000.0,
+    "output": 640000.0,
+    "textureIndex": 3
+  },
+  {
+    "level": 9,
+    "capacity": 2.56E8,
+    "generation": 640000.0,
+    "output": 1280000.0,
+    "textureIndex": 3
+  }
+]

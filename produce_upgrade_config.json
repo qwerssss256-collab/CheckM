@@ -1,0 +1,62 @@
+[
+  {
+    "name": "efficiency_1",
+    "type": "EFFICIENCY",
+    "amplifier": 15
+  },
+  {
+    "name": "efficiency_2",
+    "type": "EFFICIENCY",
+    "amplifier": 30
+  },
+  {
+    "name": "efficiency_3",
+    "type": "EFFICIENCY",
+    "amplifier": 45
+  },
+  {
+    "name": "speed_1",
+    "type": "SPEED",
+    "amplifier": 15
+  },
+  {
+    "name": "speed_2",
+    "type": "SPEED",
+    "amplifier": 30
+  },
+  {
+    "name": "speed_3",
+    "type": "SPEED",
+    "amplifier": 45
+  },
+  {
+    "name": "stack_1",
+    "type": "STACK",
+    "amplifier": 4
+  },
+  {
+    "name": "stack_2",
+    "type": "STACK",
+    "amplifier": 8
+  },
+  {
+    "name": "stack_3",
+    "type": "STACK",
+    "amplifier": 16
+  },
+  {
+    "name": "stack_4",
+    "type": "STACK",
+    "amplifier": 32
+  },
+  {
+    "name": "stack_5",
+    "type": "STACK",
+    "amplifier": 64
+  },
+  {
+    "name": "smelt_1",
+    "type": "SMELT",
+    "amplifier": 2
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "_comment_eu__2__rf": "Курс EU к RF",
+  "eu__2__rf": 4.0,
+  "_comment_storage": "Размер хранилища конвертора [eu]",
+  "storage": 1.0E8,
+  "_comment_default_bandwidth": "Дефолтная пропускная способность [eu]",
+  "default_bandwidth": 1.0E7,
+  "_comment_additional_bandwidth": "Сколько добавить пропускной способности за 1 улучшение [eu]",
+  "additional_bandwidth": 1.0E8
+}

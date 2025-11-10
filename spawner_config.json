@@ -1,0 +1,18 @@
+{
+  "advanced_spawner": {
+    "_comment_energy_storage": "Размер хранилища энергии",
+    "energy_storage": 1000.0,
+    "_comment_default_energy_cost": "Дефолтное потребеление энергии",
+    "default_energy_cost": 20000.0,
+    "_comment_default_operation_length": "Дефолтная длина операции",
+    "default_operation_length": 200,
+    "_comment_max_energy_buffer": "Максимальный буффер энергии. Порядок значений зависит от меты механизма.",
+    "max_energy_buffer": [
+      1.0E10,
+      1.0E10,
+      1.0E10,
+      1.0E9,
+      1.0E11
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "warpType": "TEMP",
+    "warpAddOrRem": true,
+    "warpAmount": 5,
+    "name": "timed_twist_up_scroll"
+  },
+  {
+    "warpType": "TEMP",
+    "warpAddOrRem": false,
+    "warpAmount": 10,
+    "name": "timed_twist_down_scroll"
+  },
+  {
+    "warpType": "PERM",
+    "warpAddOrRem": true,
+    "warpAmount": 5,
+    "name": "constant_twist_up_scroll"
+  },
+  {
+    "warpType": "PERM",
+    "warpAddOrRem": false,
+    "warpAmount": 10,
+    "name": "constant_twist_down_scroll"
+  },
+  {
+    "warpType": "PERM",
+    "warpAddOrRem": true,
+    "warpAmount": 100,
+    "name": "full_twist_max_scroll"
+  },
+  {
+    "warpType": "ALL",
+    "warpAddOrRem": false,
+    "warpAmount": 999,
+    "name": "full_twist_kill_scroll"
+  }
+]

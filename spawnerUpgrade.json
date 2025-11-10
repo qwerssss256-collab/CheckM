@@ -1,0 +1,263 @@
+{
+  "looting": [
+    {
+      "meta": 0,
+      "texturePath": "looting1",
+      "multiple": 5,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 1,
+      "texturePath": "looting2",
+      "multiple": 10,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 2,
+      "texturePath": "looting3",
+      "multiple": 15,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 3,
+      "texturePath": "looting4",
+      "multiple": 20,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 4,
+      "texturePath": "looting5",
+      "multiple": 25,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 5,
+      "texturePath": "looting_mob_1",
+      "multiple": 20,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 6,
+      "texturePath": "looting_mob_2",
+      "multiple": 40,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 7,
+      "texturePath": "looting_mob_3",
+      "multiple": 60,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 8,
+      "texturePath": "looting_mob_4",
+      "multiple": 80,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 9,
+      "texturePath": "looting_mob_5",
+      "multiple": 100,
+      "tiers": [
+        "mob"
+      ]
+    }
+  ],
+  "storage": [
+    {
+      "meta": 0,
+      "texturePath": "storage1",
+      "multiple": 2,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 1,
+      "texturePath": "storage2",
+      "multiple": 4,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 2,
+      "texturePath": "storage3",
+      "multiple": 8,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 3,
+      "texturePath": "storage4",
+      "multiple": 16,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 4,
+      "texturePath": "storage5",
+      "multiple": 32,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 5,
+      "texturePath": "storage_mob_1",
+      "multiple": 2,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 6,
+      "texturePath": "storage_mob_2",
+      "multiple": 4,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 7,
+      "texturePath": "storage_mob_3",
+      "multiple": 8,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 8,
+      "texturePath": "storage_mob_4",
+      "multiple": 16,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 9,
+      "texturePath": "storage_mob_5",
+      "multiple": 32,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 10,
+      "texturePath": "storage_mob_6",
+      "multiple": 64,
+      "tiers": [
+        "mob"
+      ]
+    }
+  ],
+  "speed": [
+    {
+      "meta": 0,
+      "texturePath": "speed1",
+      "multiple": 2,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 1,
+      "texturePath": "speed2",
+      "multiple": 3,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 2,
+      "texturePath": "speed3",
+      "multiple": 4,
+      "tiers": [
+        "dungeon",
+        "boss",
+        "cosmic",
+        "dragon"
+      ]
+    },
+    {
+      "meta": 3,
+      "texturePath": "speed_mob_1",
+      "multiple": 2,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 4,
+      "texturePath": "speed_mob_2",
+      "multiple": 3,
+      "tiers": [
+        "mob"
+      ]
+    },
+    {
+      "meta": 5,
+      "texturePath": "speed_mob_3",
+      "multiple": 4,
+      "tiers": [
+        "mob"
+      ]
+    }
+  ]
+}

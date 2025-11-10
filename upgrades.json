@@ -1,0 +1,52 @@
+[
+  {
+    "tier": "matterUUUpgrade",
+    "percent": 1.5
+  },
+  {
+    "tier": "matterSolidUpgrade",
+    "percent": 0.3
+  },
+  {
+    "tier": "matrixAssemblerMultiplier",
+    "percent": 0.10
+  },
+  {
+    "tier": "solarCombinerMultiplier",
+    "percent": 1.5
+  },
+  {
+    "tier": "molecularTransformerMultiplier",
+    "percent": 2.0
+  },
+  {
+    "tier": "energy_storage_1",
+    "percent": 2.0,
+    "amount": 0
+  },
+  {
+    "tier": "energy_storage_2",
+    "percent": 5.0,
+    "amount": 0
+  },
+  {
+    "tier": "energy_storage_3",
+    "percent": 10.0,
+    "amount": 0
+  },
+  {
+    "tier": "arcaneAssemblerDiscount",
+    "percent": 0.5,
+    "amount": 0
+  },
+  {
+    "tier": "bloodAltarAssemblerDiscount",
+    "percent": 0.35,
+    "amount": 0
+  },
+  {
+    "tier": "advancedLuckChanger",
+    "percent": 0.5,
+    "amount": 2
+  }
+]
