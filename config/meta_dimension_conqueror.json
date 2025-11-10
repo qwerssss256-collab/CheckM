@@ -1,0 +1,38 @@
+[
+  {
+    "itemDisplayName": "SafariBlade",
+    "dimension": "safari",
+    "needAnimation": false,
+    "ignoreDimension": false
+  },
+  {
+    "itemDisplayName": "Dungeon",
+    "dimension": "dungeon",
+    "needAnimation": false,
+    "ignoreDimension": false
+  },
+  {
+    "itemDisplayName": "DragonBlade",
+    "dimension": "dragons",
+    "needAnimation": false,
+    "ignoreDimension": false
+  },
+  {
+    "itemDisplayName": "GaiaBlade",
+    "dimension": "gaiaDimension",
+    "needAnimation": false,
+    "ignoreDimension": true
+  },
+  {
+    "itemDisplayName": "FlugelBlade",
+    "dimension": "flugelDimension",
+    "needAnimation": true,
+    "ignoreDimension": true
+  },
+  {
+    "itemDisplayName": "InfinityDragonBlade",
+    "dimension": "infinityDimension",
+    "needAnimation": true,
+    "ignoreDimension": true
+  }
+]

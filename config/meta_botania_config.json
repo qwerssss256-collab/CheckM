@@ -1,0 +1,58 @@
+{
+  "notify": {
+    "_comment_notify_time": "Время уведомлений в ms",
+    "notify_time": 1500
+  },
+  "meta_mana_ring": {
+    "_comment_mana_ring_cap": "Количество маны в кольцах",
+    "mana_ring_cap": [
+      50000000,
+      250000000,
+      750000000,
+      2000000000
+    ]
+  },
+  "meta_spreader": {
+    "_comment_spreader_storage": "Вместимость распространителей",
+    "spreader_storage": [
+      1.0E8,
+      5.0E8,
+      2.5E9,
+      1.5E10
+    ],
+    "_comment_spreader_transfer": "Передача за выстрел",
+    "spreader_transfer": [
+      50000000,
+      250000000,
+      1250000000,
+      2147483647
+    ],
+    "_comment_burst_max_distance": "Максимальная дальность выстрела маны",
+    "burst_max_distance": 50.0
+  },
+  "meta_pool": {
+    "_comment_pool_storage": "Вместимость бассейнов маны",
+    "pool_storage": [
+      1.0E9,
+      5.0E9,
+      2.5E10,
+      1.5E11
+    ],
+    "_comment_pool_transfer_rate": "Передача (в предмет) из бассейна маны",
+    "pool_transfer_rate": [
+      50000000,
+      250000000,
+      1250000000,
+      2147483647
+    ]
+  },
+  "meta_spark": {
+    "_comment_spark_transfer_rate": "Передача искр | их количество в игре",
+    "spark_transfer_rate": [
+      50000000,
+      250000000,
+      1250000000,
+      2147483647
+    ]
+  }
+}

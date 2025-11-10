@@ -1,0 +1,14 @@
+[
+  {
+    "itemDisplayName": "DungeonPickaxe",
+    "dimension": "dungeons",
+    "needAnimation": false,
+    "ignoreDimension": false
+  },
+  {
+    "itemDisplayName": "infinityEndPickaxe",
+    "dimension": "dragons",
+    "needAnimation": false,
+    "ignoreDimension": false
+  }
+]

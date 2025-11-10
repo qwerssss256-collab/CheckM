@@ -1,0 +1,26 @@
+[
+  {
+    "modelName": "MetaRodOne",
+    "textureIconName": "filler",
+    "tag": "MetaRodOne",
+    "capacity": 100000,
+    "glowing": true,
+    "craftCost": 10
+  },
+  {
+    "modelName": "MetaRodOne",
+    "textureIconName": "filler",
+    "tag": "MetaRodTwo",
+    "capacity": 1000000,
+    "glowing": true,
+    "craftCost": 100
+  },
+  {
+    "modelName": "MetaRodOne",
+    "textureIconName": "filler",
+    "tag": "MetaRodThree",
+    "capacity": 10000000,
+    "glowing": true,
+    "craftCost": 1000
+  }
+]

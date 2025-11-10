@@ -1,0 +1,12 @@
+{
+  "_comment_active_score_board_elements": "Список активных полей в ScoreBoard",
+  "active_score_board_elements": [
+    "PLAYTIME",
+    "BLOCKS_MINED",
+    "GEM_WORLD",
+    "FLY",
+    "GOD"
+  ],
+  "_comment_enable_message_on_join": "Будет ли писаться игроку сообщение с информацией при входе в игру",
+  "enable_message_on_join": true
+}

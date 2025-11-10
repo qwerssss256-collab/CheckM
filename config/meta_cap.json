@@ -1,0 +1,23 @@
+[
+  {
+    "modelName": "MetaCapOne",
+    "textureIconName": "filler",
+    "tag": "MetaCapOne",
+    "discount": 0.3,
+    "craftCost": 10
+  },
+  {
+    "modelName": "MetaCapOne",
+    "textureIconName": "filler",
+    "tag": "MetaCapTwo",
+    "discount": 0.15,
+    "craftCost": 100
+  },
+  {
+    "modelName": "MetaCapOne",
+    "textureIconName": "filler",
+    "tag": "MetaCapThree",
+    "discount": 0.05,
+    "craftCost": 1000
+  }
+]

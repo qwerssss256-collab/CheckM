@@ -1,0 +1,44 @@
+{
+  "settingTypes": {
+    "generateLiquids": {
+      "id": "generateLiquids",
+      "displayName": "Генерация жидкостей",
+      "accessText": "§7(бесплатно)",
+      "accessPermission": "group.default",
+      "iconText": "oneblock:textures/gui/generator/icons/settings/spawn_fluids.png",
+      "defaultValue": true,
+      "sort": 1,
+      "description": "§fГенерация жидкостей\n§8Позволяет§a отключить появление\n§aжидкостей§8 при добыче блоков с\n§8генератора"
+    },
+    "autoPickup": {
+      "id": "autoPickup",
+      "displayName": "Автоподьём блоков",
+      "accessText": "§7(бесплатно)",
+      "accessPermission": "group.default",
+      "iconText": "oneblock:textures/gui/generator/icons/settings/auto_pickup.png",
+      "defaultValue": true,
+      "sort": 2,
+      "description": "§fАвтоподъём блоков\n§aКаждый сломаный блок §8будет\n§8автоматически перемещаться\n§aсразу в инвентарь"
+    },
+    "signDrop": {
+      "id": "signDrop",
+      "displayName": "Подпись блоков",
+      "accessText": "§7(доступно с §610 уровня добычи§7)",
+      "accessPermission": "group.default",
+      "iconText": "oneblock:textures/gui/generator/icons/settings/sign_drop.png",
+      "defaultValue": true,
+      "sort": 4,
+      "description": "§fПодпись блоков тегом\n§8Позволяет §cотключить подпись тегом\n§cпри добыче блоков с\n§8генератора"
+    },
+    "spawnMobs": {
+      "id": "spawnMobs",
+      "displayName": "Спавн мобов",
+      "accessText": "§7(доступно с \u003ctranslate key\u003d\"group.group300.color\"/\u003e\u003ctranslate key\u003d\"group.group300.name\"/\u003e§7)",
+      "accessPermission": "group.group300",
+      "iconText": "oneblock:textures/gui/generator/icons/settings/spawn_mobs.png",
+      "defaultValue": true,
+      "sort": 3,
+      "description": "§fПереключение спавна мобов\n§8Отключение возможности у мобов\n§8появляться в мире\n§8\n§dДоступно для игроков с игровым\n§dстатусом§7 \u003ctranslate key\u003d\"group.group300.color\"/\u003e\u003ctranslate key\u003d\"group.group300.name\"/\u003e§7 §dи выше"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "adv_hiveacynth": {
+    "_comment_range": "Радиус",
+    "range": 3,
+    "_comment_mana_buffer": "Буфер маны",
+    "mana_buffer": 10000000,
+    "_comment_generating_cost": "Цена производства",
+    "generating_cost": 500000,
+    "_comment_tick_rate_generating": "Тикрейт на создание пчёл",
+    "tick_rate_generating": 100
+  },
+  "adv_death_rose": {
+    "_comment_range": "Радиус",
+    "range": 3,
+    "_comment_mana_buffer": "Размер буфера цветка",
+    "mana_buffer": 2000000,
+    "_comment_generating": "Генерация",
+    "generating": 10000,
+    "_comment_fuel_burn_time_max_buffer": "Максимальное время горения",
+    "fuel_burn_time_max_buffer": 6400,
+    "_comment_delay_passive_generation": "Задержка для пассивной генерации",
+    "delay_passive_generation": 2,
+    "_comment_need_stack_smelt_support": "Поддержка переплавки сразу стаками",
+    "need_stack_smelt_support": true,
+    "_comment_burn_time_per_star": "Время работы за 1 звезду",
+    "burn_time_per_star": 100,
+    "_comment_color": "Цвет гуишки",
+    "color": 7884800
+  },
+  "adv_thermalily": {
+    "_comment_cooldown": "Кулдаун",
+    "cooldown": 6000,
+    "_comment_mana_buffer": "Размер буфера цветка",
+    "mana_buffer": 1000,
+    "_comment_generating": "Генерация",
+    "generating": 40,
+    "_comment_delay_passive_generation": "Задержка для пассивной генерации",
+    "delay_passive_generation": 1,
+    "_comment_burn_time": "Максимальное время горения",
+    "burn_time": 900
+  },
+  "adv_entropinnyum": {
+    "_comment_range": "Радиус",
+    "range": 12,
+    "_comment_mana_buffer": "Размер буфера цветка",
+    "mana_buffer": 13000,
+    "_comment_generating": "Генерация",
+    "generating": 2
+  },
+  "adv_endoflame": {
+    "_comment_range": "Радиус",
+    "range": 3,
+    "_comment_mana_buffer": "Размер буфера цветка",
+    "mana_buffer": 600,
+    "_comment_generating": "Генерация",
+    "generating": 6,
+    "_comment_fuel_burn_time_max_buffer": "Максимальное время горения",
+    "fuel_burn_time_max_buffer": 320000,
+    "_comment_delay_passive_generation": "Задержка для пассивной генерации",
+    "delay_passive_generation": 2,
+    "_comment_need_stack_smelt_support": "Поддержка переплавки сразу стаками",
+    "need_stack_smelt_support": true
+  },
+  "adv_gourmaryllis": {
+    "_comment_range": "Радиус сбора еды",
+    "range": 1,
+    "_comment_mana_buffer": "Размер буфера цветка",
+    "mana_buffer": 16000,
+    "_comment_generating": "Генерация ( storedMana \u003d saturation * saturation * generating )",
+    "generating": 128,
+    "_comment_cooldown_generation": "Перезарядка ( cooldown \u003d saturation * cooldown )",
+    "cooldown_generation": 10,
+    "_comment_need_passive_decay": "Увядание",
+    "need_passive_decay": false,
+    "_comment_need_stack_smelt_support": "Поддержка переплавки еды стаками (дефолт, не учитывается сколько ты бросил яды в стаке, нужно учитывать, что это повиляет и на cooldown",
+    "need_stack_smelt_support": false
+  },
+  "adv_hydroangeas": {
+    "_comment_mana_buffer": "Размер буфера цветка",
+    "mana_buffer": 300,
+    "_comment_generating": "Генерация",
+    "generating": 2,
+    "_comment_burn_time": "Время работы",
+    "burn_time": 40,
+    "_comment_need_passive_decay": "Увядание",
+    "need_passive_decay": true
+  }
+}

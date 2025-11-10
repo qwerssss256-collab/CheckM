@@ -1,0 +1,100 @@
+{
+  "buttons": [
+    {
+      "id": "map",
+      "displayName": "Карта",
+      "iconText": "metaclient:textures/gui/escape/icons/map.png",
+      "sort": 10,
+      "actionType": "command",
+      "actionValue": "map"
+    },
+    {
+      "id": "home",
+      "displayName": "Домой",
+      "iconText": "metaclient:textures/gui/escape/icons/home.png",
+      "sort": 20,
+      "actionType": "command",
+      "actionValue": "island home"
+    },
+    {
+      "id": "skills",
+      "displayName": "Навыки",
+      "iconText": "metaclient:textures/gui/escape/icons/skills.png",
+      "sort": 30,
+      "actionType": "command",
+      "actionValue": "skills"
+    },
+    {
+      "id": "quests",
+      "displayName": "Квесты",
+      "iconText": "metaclient:textures/gui/escape/icons/guides.png",
+      "sort": 40,
+      "actionType": "command",
+      "actionValue": "quests"
+    },
+    {
+      "id": "bank",
+      "displayName": "Банк",
+      "iconText": "metaclient:textures/gui/escape/icons/bank.png",
+      "sort": 50,
+      "actionType": "command",
+      "actionValue": "bank"
+    },
+    {
+      "id": "settings",
+      "displayName": "Настройки",
+      "iconText": "metaclient:textures/gui/escape/icons/settings.png",
+      "sort": 60,
+      "actionType": "gui",
+      "actionValue": "settings"
+    },
+    {
+      "id": "cases",
+      "displayName": "Кейсы",
+      "iconText": "metaclient:textures/gui/escape/icons/cases.png",
+      "sort": 70,
+      "actionType": "command",
+      "actionValue": "cases"
+    },
+    {
+      "id": "donate",
+      "displayName": "Донат",
+      "iconText": "metaclient:textures/gui/escape/icons/donate.png",
+      "sort": 80,
+      "actionType": "command",
+      "actionValue": "donate"
+    },
+    {
+      "id": "kits",
+      "displayName": "Наборы",
+      "iconText": "metaclient:textures/gui/escape/icons/kits.png",
+      "sort": 90,
+      "actionType": "command",
+      "actionValue": "kits open default"
+    },
+    {
+      "id": "buylevel",
+      "displayName": "Прокачка",
+      "iconText": "metadonate:textures/icons/buylevel.png",
+      "sort": 100,
+      "actionType": "command",
+      "actionValue": "buylevel"
+    },
+    {
+      "id": "booster",
+      "displayName": "Бустеры",
+      "iconText": "metadonate:textures/icons/boosters.png",
+      "sort": 110,
+      "actionType": "command",
+      "actionValue": "buybooster"
+    },
+    {
+      "id": "games",
+      "displayName": "Сапёр",
+      "iconText": "metaclient:textures/gui/escape/icons/mines.png",
+      "sort": 120,
+      "actionType": "command",
+      "actionValue": "games"
+    }
+  ]
+}

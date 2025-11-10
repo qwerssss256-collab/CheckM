@@ -1,0 +1,278 @@
+{
+  "_comment_operation_length": "Дефолтная длина оперций в сборщиках [тик]",
+  "operation_length": 24,
+  "_comment_max_recipe_multiplier": "Максимальное значение перемножения рецепта [int]",
+  "max_recipe_multiplier": 16777216,
+  "draconic_plus_injector": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_energy_to_euc_onversion_factor": "Конвертация энергии под EU [int]: energyAmount / energyToEUConversionFactor",
+      "energy_to_euc_onversion_factor": 4,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/draconicPlusAssembler.png",
+      "_comment_amount_injectors_in_line": "Количество слотов инжектора в ряд",
+      "amount_injectors_in_line": 6
+    },
+    "encoder": {
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/thaumInfusionEncoder.png",
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "base_mechanism": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "complex_molecular_transformer": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "molecular_transformer": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "replicator": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "_comment_discount": "Размер скидки",
+    "discount": 0.25,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png",
+      "_comment_tank_capacity_assembler": "Размер бака в сборщике [mb]",
+      "tank_capacity_assembler": 1000000000
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2ReplicatorEncoder.png"
+    }
+  },
+  "thaum_arcane": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_generate_tick_rates": "Каждые сколько тик генерировать вис для тира [1, 2, 3]",
+      "generate_tick_rates": [
+        100,
+        40,
+        10
+      ],
+      "_comment_generated_vis": "Генерация вис каждых n тик для тира [1, 2, 3]",
+      "generated_vis": [
+        25,
+        250,
+        350
+      ],
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/thaumArcaneAssembler.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/thaumArcaneEncoder.png"
+    }
+  },
+  "botania_terra_plate": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png",
+      "_comment_mana_capacity": "Количество маны внутри сборщика",
+      "mana_capacity": 1000000000
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "botania_elven": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png",
+      "_comment_mana_capacity": "Количество маны внутри сборщика",
+      "mana_capacity": 1000000000,
+      "_comment_mana_consume_with_item": "Количество потребляемой маны за каждый предмет",
+      "mana_consume_with_item": 1000
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "botania_infusion": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png",
+      "_comment_mana_capacity": "Количество маны внутри сборщика",
+      "mana_capacity": 1000000000
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "botania_runic": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png",
+      "_comment_mana_capacity": "Количество маны внутри сборщика",
+      "mana_capacity": 1000000000
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "thaum_crucible": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "thaum_infusion": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "avaritia_compressor": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "avaritia_extreme": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png"
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "blood_alchemy": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png",
+      "_comment_tank_capacity_assembler": "Размер бака в сборщике [mb]",
+      "tank_capacity_assembler": 1000000000
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "blood_altar": {
+    "_comment_amount_pattern_slots": "Количество слотов в шаблоне",
+    "amount_pattern_slots": 24,
+    "assembler": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 6,
+      "_comment_texture_gui": "Путь к гуишке",
+      "texture_gui": "textures/gui/applied/ae2AssemblerOne2One.png",
+      "_comment_tank_capacity_assembler": "Размер бака в сборщике [mb]",
+      "tank_capacity_assembler": 200000000
+    },
+    "encoder": {
+      "_comment_amount_patterns_in_line": "Количество шаблонов в ряду [GUI]",
+      "amount_patterns_in_line": 3
+    }
+  },
+  "advanced_iop_ort": {
+    "_comment_amount_items_move": "Дефолтное количество переносимых вещей [long]",
+    "amount_items_move": 131072,
+    "_comment_upgrade_factor": "Фактор скорости улучшений скорости [int] \u003d (1 + cardSum * factor)",
+    "upgrade_factor": 20,
+    "_comment_fluid_multiplier": "Фактор жидкости [int] \u003d amountItemsMove * fluidMultiplier",
+    "fluid_multiplier": 1000
+  }
+}

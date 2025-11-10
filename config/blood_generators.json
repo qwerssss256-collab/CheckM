@@ -1,0 +1,32 @@
+[
+  {
+    "tier": 0,
+    "bloodPerOperation": 10,
+    "energyPerOperation": 100.0,
+    "bloodCapacity": 100
+  },
+  {
+    "tier": 1,
+    "bloodPerOperation": 100,
+    "energyPerOperation": 1000.0,
+    "bloodCapacity": 1000
+  },
+  {
+    "tier": 2,
+    "bloodPerOperation": 1000,
+    "energyPerOperation": 10000.0,
+    "bloodCapacity": 100000
+  },
+  {
+    "tier": 3,
+    "bloodPerOperation": 10000,
+    "energyPerOperation": 100000.0,
+    "bloodCapacity": 500000
+  },
+  {
+    "tier": 4,
+    "bloodPerOperation": 50000,
+    "energyPerOperation": 500000.0,
+    "bloodCapacity": 1000000
+  }
+]

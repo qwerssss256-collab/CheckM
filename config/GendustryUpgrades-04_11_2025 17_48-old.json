@@ -1,0 +1,685 @@
+{
+  "comment": "Конфиг должен быть как на клиенте, так и на сервере!",
+  "configuration": {
+    "upgrades": {
+      "comment": "Апгрейды для пасеки. При необходимости можно удалять/изменять/добавлять",
+      "type": "Map<Integer, Upgrade>",
+      "default": {
+        "0": {
+          "name": "prod",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "production",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            }
+          ]
+        },
+        "1": {
+          "name": "life",
+          "maxCount": 4,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "lifespan",
+              "middle": "DIVISION",
+              "right": 1.5
+            }
+          ]
+        },
+        "2": {
+          "name": "flowering",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.1
+            },
+            {
+              "left": "flowering",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            }
+          ]
+        },
+        "3": {
+          "name": "territory",
+          "maxCount": 4,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "territory",
+              "middle": "MULTIPLE",
+              "right": 1.5
+            }
+          ]
+        },
+        "4": {
+          "name": "humidifier",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "humidity",
+              "middle": "ADD",
+              "right": 0.25
+            }
+          ]
+        },
+        "5": {
+          "name": "dryer",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "humidity",
+              "middle": "SUB",
+              "right": 0.25
+            }
+          ]
+        },
+        "6": {
+          "name": "heater",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "temperature",
+              "middle": "ADD",
+              "right": 0.25
+            }
+          ]
+        },
+        "7": {
+          "name": "cooler",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "temperature",
+              "middle": "SUB",
+              "right": 0.25
+            }
+          ]
+        },
+        "10": {
+          "name": "sealing",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "sealed",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "11": {
+          "name": "light",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "selfLighted",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "12": {
+          "name": "sky",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "sunlightSimulated",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "13": {
+          "name": "hell",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.5
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 8.0
+            }
+          ]
+        },
+        "14": {
+          "name": "auto",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.1
+            },
+            {
+              "left": "automated",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "15": {
+          "name": "sieve",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.25
+            },
+            {
+              "left": "collectingPollen",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "16": {
+          "name": "desert",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 2.0
+            }
+          ]
+        },
+        "17": {
+          "name": "plains",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "18": {
+          "name": "jungle",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 21.0
+            }
+          ]
+        },
+        "19": {
+          "name": "stabilizer",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 2.0
+            },
+            {
+              "left": "geneticDecay",
+              "middle": "SET",
+              "right": 0.0
+            }
+          ]
+        },
+        "20": {
+          "name": "winter",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 5.0
+            }
+          ]
+        },
+        "21": {
+          "name": "ocean",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 0.0
+            }
+          ]
+        },
+        "22": {
+          "name": "scrubber",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.3
+            },
+            {
+              "left": "flowering",
+              "middle": "SET",
+              "right": 0.0
+            }
+          ]
+        }
+      },
+      "value": {
+        "0": {
+          "name": "prod",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "production",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            }
+          ]
+        },
+        "1": {
+          "name": "life",
+          "maxCount": 4,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "lifespan",
+              "middle": "DIVISION",
+              "right": 1.5
+            }
+          ]
+        },
+        "2": {
+          "name": "flowering",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.1
+            },
+            {
+              "left": "flowering",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            }
+          ]
+        },
+        "3": {
+          "name": "territory",
+          "maxCount": 4,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "territory",
+              "middle": "MULTIPLE",
+              "right": 1.5
+            }
+          ]
+        },
+        "4": {
+          "name": "humidifier",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "humidity",
+              "middle": "ADD",
+              "right": 0.25
+            }
+          ]
+        },
+        "5": {
+          "name": "dryer",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "humidity",
+              "middle": "SUB",
+              "right": 0.25
+            }
+          ]
+        },
+        "6": {
+          "name": "heater",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "temperature",
+              "middle": "ADD",
+              "right": 0.25
+            }
+          ]
+        },
+        "7": {
+          "name": "cooler",
+          "maxCount": 8,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "temperature",
+              "middle": "SUB",
+              "right": 0.25
+            }
+          ]
+        },
+        "10": {
+          "name": "sealing",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "sealed",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "11": {
+          "name": "light",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "selfLighted",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "12": {
+          "name": "sky",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.05
+            },
+            {
+              "left": "sunlightSimulated",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "13": {
+          "name": "hell",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.5
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 8.0
+            }
+          ]
+        },
+        "14": {
+          "name": "auto",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.1
+            },
+            {
+              "left": "automated",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "15": {
+          "name": "sieve",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.25
+            },
+            {
+              "left": "collectingPollen",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "16": {
+          "name": "desert",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 2.0
+            }
+          ]
+        },
+        "17": {
+          "name": "plains",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 1.0
+            }
+          ]
+        },
+        "18": {
+          "name": "jungle",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 21.0
+            }
+          ]
+        },
+        "19": {
+          "name": "stabilizer",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 2.0
+            },
+            {
+              "left": "geneticDecay",
+              "middle": "SET",
+              "right": 0.0
+            }
+          ]
+        },
+        "20": {
+          "name": "winter",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 5.0
+            }
+          ]
+        },
+        "21": {
+          "name": "ocean",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.2
+            },
+            {
+              "left": "biomeOverride",
+              "middle": "SET",
+              "right": 0.0
+            }
+          ]
+        },
+        "22": {
+          "name": "scrubber",
+          "maxCount": 1,
+          "modifiers": [
+            {
+              "left": "energy",
+              "middle": "MULTIPLE",
+              "right": 1.3
+            },
+            {
+              "left": "flowering",
+              "middle": "SET",
+              "right": 0.0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

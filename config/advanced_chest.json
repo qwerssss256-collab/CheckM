@@ -1,0 +1,18 @@
+[
+  {
+    "tier": 0,
+    "maxStackSize": 128
+  },
+  {
+    "tier": 1,
+    "maxStackSize": 192
+  },
+  {
+    "tier": 2,
+    "maxStackSize": 256
+  },
+  {
+    "tier": 3,
+    "maxStackSize": 320
+  }
+]

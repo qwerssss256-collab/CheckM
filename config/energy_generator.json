@@ -1,0 +1,114 @@
+{
+  "bloodGenerator": {
+    "energyAmount": 160000.0,
+    "energyCapacity": 200000000,
+    "tickRate": 10,
+    "fuelConsume": 1000,
+    "tankCapacity": 100000
+  },
+  "manaGenerator": {
+    "energyAmount": 160000.0,
+    "energyCapacity": 200000000,
+    "tickRate": 10,
+    "fuelConsume": 25000,
+    "tankCapacity": 10000000
+  },
+  "thaumGenerator": {
+    "energyAmount": 160000.0,
+    "energyCapacity": 200000000,
+    "tickRate": 5,
+    "fuelConsume": 50,
+    "tankCapacity": 5000,
+    "aspectName": "machina",
+    "aspectDrainRate": 500,
+    "aspectDrainRange": 8
+  },
+  "solidGenerators": [
+    {
+      "generatorLevel": 0,
+      "energyCapacity": 200000,
+      "fuelBurnRate": 80,
+      "multiplier": 2
+    },
+    {
+      "generatorLevel": 1,
+      "energyCapacity": 1600000,
+      "fuelBurnRate": 40,
+      "multiplier": 4
+    },
+    {
+      "generatorLevel": 2,
+      "energyCapacity": 12800000,
+      "fuelBurnRate": 20,
+      "multiplier": 8
+    }
+  ],
+  "geothermalGenerators": [
+    {
+      "generatorLevel": 0,
+      "energyCapacity": 200000,
+      "fuelBurnRate": 80,
+      "multiplier": 2,
+      "tankCapacity": 10000,
+      "fuelConsume": 1000
+    },
+    {
+      "generatorLevel": 1,
+      "energyCapacity": 1600000,
+      "fuelBurnRate": 40,
+      "multiplier": 4,
+      "tankCapacity": 15000,
+      "fuelConsume": 10000
+    },
+    {
+      "generatorLevel": 2,
+      "energyCapacity": 12800000,
+      "fuelBurnRate": 20,
+      "multiplier": 8,
+      "tankCapacity": 20000,
+      "fuelConsume": 1000
+    }
+  ],
+  "windGenerators": [
+    {
+      "generatorLevel": 0,
+      "energyCapacity": 20000000,
+      "rotorDamage": 0,
+      "filteredItems": [
+        {
+          "name": "metaadvanced:item_wind_iridium_rotor",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "generatorLevel": 1,
+      "energyCapacity": 40000000,
+      "rotorDamage": 0,
+      "filteredItems": [
+        {
+          "name": "metaadvanced:item_wind_quantum_rotor",
+          "meta": 0
+        }
+      ]
+    },
+    {
+      "generatorLevel": 2,
+      "energyCapacity": 80000000,
+      "rotorDamage": 0,
+      "filteredItems": [
+        {
+          "name": "metaadvanced:item_wind_ultimate_rotor",
+          "meta": 0
+        }
+      ]
+    }
+  ],
+  "reactorGenerator": {
+    "energyCapacity": 10000000,
+    "resourceTankCapacity": 250000,
+    "productTankCapacity": 250000,
+    "multiplier": 4.0,
+    "tickRate": 20
+  }
+}

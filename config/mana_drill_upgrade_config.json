@@ -1,0 +1,87 @@
+[
+  {
+    "name": "speed_1",
+    "type": "SPEED",
+    "amplifier": 0
+  },
+  {
+    "name": "speed_2",
+    "type": "SPEED",
+    "amplifier": 0
+  },
+  {
+    "name": "speed_3",
+    "type": "SPEED",
+    "amplifier": 0
+  },
+  {
+    "name": "speed_4",
+    "type": "SPEED",
+    "amplifier": 0
+  },
+  {
+    "name": "speed_5",
+    "type": "SPEED",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_1",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_2",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_3",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_4",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_5",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_6",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_7",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_8",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "looting_9",
+    "type": "LOOTING",
+    "amplifier": 0
+  },
+  {
+    "name": "generation_1",
+    "type": "GENERATION",
+    "amplifier": 0
+  },
+  {
+    "name": "generation_2",
+    "type": "GENERATION",
+    "amplifier": 0
+  },
+  {
+    "name": "generation_3",
+    "type": "GENERATION",
+    "amplifier": 0
+  }
+]

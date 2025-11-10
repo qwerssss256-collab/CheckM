@@ -1,0 +1,37 @@
+{
+  "upgrades": {
+    "upgrade_booster_1h": {
+      "id": "upgrade_booster_1h",
+      "displayName": "Бустер прокачки §6x2",
+      "durationText": "на §d1 час",
+      "iconText": "oneblock:textures/gui/generator/icons/upgrades/upgrade_booster_1h.png",
+      "description": "Бустер прокачки §6х2 §fна §d1 час\n§aУскоряет прокачку §6в два раза§a -\n§aкаждый сломанный блок\n§6считается за два\n \n§dНеплохо ускоряет прокачку\n§dгенератора, §aособенно на старте",
+      "color": "#55FF55",
+      "price": 99,
+      "sort": 1,
+      "duration": 3600
+    },
+    "drop_booster_1h": {
+      "id": "drop_booster_1h",
+      "displayName": "Бустер дропа §6x2",
+      "durationText": "на §d1 час",
+      "iconText": "oneblock:textures/gui/generator/icons/upgrades/drop_booster_1h.png",
+      "description": "§fБустер дропа §6х2 §fна §d1 час\n§6Удваивает предметы, §eкоторые\n§eвыпадают при добыче блока.\n§e§8\n§dМожно использовать вместе с\n§dзачарованием §aУдача I-III",
+      "color": "#FFAA00",
+      "price": 49,
+      "sort": 2,
+      "duration": 3600
+    },
+    "drop_booster_3h": {
+      "id": "drop_booster_3h",
+      "displayName": "Бустер дропа §6x2",
+      "durationText": "на §d3 часа",
+      "iconText": "oneblock:textures/gui/generator/icons/upgrades/drop_booster_3h.png",
+      "description": "§fБустер дропа §6х2 §fна §d3 часа\n§6Удваивает предметы, §eкоторые\n§eвыпадают при добыче блока.\n§e§8\n§dМожно использовать вместе с\n§dзачарованием §aУдача I-III",
+      "color": "#FFAA00",
+      "price": 99,
+      "sort": 3,
+      "duration": 10800
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "whiteListInputs": [
+    {
+      "name": "minecraft:end_stone",
+      "meta": 0
+    },
+    {
+      "name": "minecraft:glowstone",
+      "meta": 0
+    },
+    {
+      "name": "minecraft:coal",
+      "meta": 0
+    },
+    {
+      "name": "minecraft:gold_ingot",
+      "meta": 0
+    },
+    {
+      "name": "IC2:itemIngot",
+      "meta": 5
+    },
+    {
+      "name": "minecraft:iron_ingot",
+      "meta": 0
+    },
+    {
+      "name": "minecraft:diamond",
+      "meta": 0
+    },
+    {
+      "name": "minecraft:emerald",
+      "meta": 0
+    },
+    {
+      "name": "minecraft:redstone",
+      "meta": 0
+    },
+    {
+      "name": "minecraft:clay_ball",
+      "meta": 0
+    },
+	{
+      "name": "minecraft:glowstone_dust",
+      "meta": 0
+    },
+	{
+      "name": "minecraft:flint",
+      "meta": 0
+    },
+	{
+      "name": "minecraft:quartz",
+      "meta": 0
+    },
+	{
+      "name": "minecraft:ender_pearl",
+      "meta": 0
+    },
+	{
+      "name": "minecraft:dye",
+      "meta": 4
+    },
+	{
+      "name": "DraconicEvolution:draconiumIngot",
+      "meta": 0
+    },
+	{
+      "name": "ForbiddenMagic:GluttonyShard",
+      "meta": 0
+    },
+	{
+      "name": "ForbiddenMagic:NetherShard",
+      "meta": 0
+    },
+	{
+      "name": "ForbiddenMagic:NetherShard",
+      "meta": 1
+    },
+	{
+      "name": "ForbiddenMagic:NetherShard",
+      "meta": 2
+    },
+	{
+      "name": "ForbiddenMagic:NetherShard",
+      "meta": 4
+    },
+	{
+      "name": "ForbiddenMagic:NetherShard",
+      "meta": 5
+    },
+	{
+      "name": "ForbiddenMagic:NetherShard",
+      "meta": 6
+    },
+	{
+      "name": "ForbiddenMagic:NetherShard",
+      "meta": 3
+    },
+	{
+      "name": "TConstruct:materials",
+      "meta": 3
+    },
+	{
+      "name": "TConstruct:materials",
+      "meta": 11
+    },
+	{
+      "name": "Thaumcraft:ItemResource",
+      "meta": 3
+    },
+	{
+      "name": "Thaumcraft:ItemShard",
+      "meta": 0
+    },
+	{
+      "name": "Thaumcraft:ItemShard",
+      "meta": 1
+    },
+	{
+      "name": "Thaumcraft:ItemShard",
+      "meta": 2
+    },
+	{
+      "name": "Thaumcraft:ItemShard",
+      "meta": 3
+    },
+	{
+      "name": "Thaumcraft:ItemShard",
+      "meta": 4
+    },
+	{
+      "name": "Thaumcraft:ItemShard",
+      "meta": 5
+    },
+	{
+      "name": "Thaumcraft:ItemShard",
+      "meta": 6
+    },
+	{
+      "name": "ThermalFoundation:material",
+      "meta": 68
+    },
+	{
+      "name": "minecraft:skull",
+      "meta": 0
+    },
+	{
+      "name": "appliedenergistics2:item.ItemMultiMaterial",
+      "meta": 0
+    },
+	{
+      "name": "appliedenergistics2:item.ItemMultiMaterial",
+      "meta": 1
+    },
+	{
+      "name": "divinerpg:apalachiaSoul",
+      "meta": 0
+    },
+	{
+      "name": "appliedenergistics2:tile.BlockSkyStone",
+      "meta": 0
+    },
+	{
+      "name": "divinerpg:arlemiteIngot",
+      "meta": 0
+    },
+	{
+      "name": "divinerpg:edenSoul",
+      "meta": 0
+    },
+	{
+      "name": "divinerpg:mortumSoul",
+      "meta": 0
+    },
+	{
+      "name": "divinerpg:realmiteIngot",
+      "meta": 0
+    },
+	{
+      "name": "divinerpg:rupeeIngot",
+      "meta": 0
+    },
+	{
+      "name": "divinerpg:skythernSoul",
+      "meta": 0
+    },
+	{
+      "name": "divinerpg:wildwoodSoul",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:Bones",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:Bones",
+      "meta": 2
+    },
+	{
+      "name": "metatweaker:ChimeriteItems",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:OblivionItems",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:PhosphorItems",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:VampireEssenceItems",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:WrathStarItems",
+      "meta": 0
+    },
+	{
+      "name": "Thaumcraft:ItemResource",
+      "meta": 6
+    },
+	{
+      "name": "TConstruct:materials",
+      "meta": 4
+    },
+	{
+      "name": "AdvancedSolarPanel:asp_crafting_items",
+      "meta": 11
+    },
+	{
+      "name": "ThermalFoundation:material",
+      "meta": 69
+    },
+	{
+      "name": "ThermalFoundation:material",
+      "meta": 70
+    },
+	{
+      "name": "metatweaker:DungeonItems",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:DungeonItems",
+      "meta": 2
+    },
+	{
+      "name": "metatweaker:DungeonItems",
+      "meta": 4
+    },
+	{
+      "name": "metatweaker:DungeonItems",
+      "meta": 6
+    },
+	{
+      "name": "metatweaker:ElementalEssence",
+      "meta": 7
+    },
+	{
+      "name": "metatweaker:ElementalEssence",
+      "meta": 2
+    },
+	{
+      "name": "metatweaker:ElementalEssence",
+      "meta": 3
+    },
+	{
+      "name": "metatweaker:ElementalEssence",
+      "meta": 1
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 0
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 1
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 2
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 3
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 4
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 5
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 6
+    },
+	{
+      "name": "metatweaker:DragonScale",
+      "meta": 7
+    },
+	{
+      "name": "metacontent:light_crystal",
+      "meta": 0
+    },
+	{
+      "name": "metacontent:electric_crystal",
+      "meta": 0
+    },
+	{
+      "name": "metacontent:earth_crystal",
+      "meta": 0
+    },
+	{
+      "name": "metacontent:fire_crystal",
+      "meta": 0
+    },
+	{
+      "name": "metacontent:air_crystal",
+      "meta": 0
+    },
+	{
+      "name": "metacontent:nature_crystal",
+      "meta": 0
+    },
+	{
+      "name": "metacontent:ice_crystal",
+      "meta": 0
+    },
+	{
+      "name": "metacontent:chaos_crystal",
+      "meta": 0
+    },
+	{
+      "name": "MineFactoryReloaded:meat.ingot.raw",
+      "meta": 0
+    },
+	{
+      "name": "minecraft:obsidian",
+      "meta": 0
+    },
+	{
+      "name": "Avaritia:Resource",
+      "meta": 2
+    },
+	{
+      "name": "Avaritia:Resource",
+      "meta": 3
+    },
+	{
+      "name": "Avaritia:Resource",
+      "meta": 4
+    },
+	{
+      "name": "Avaritia:Resource_Block",
+      "meta": 0
+    }
+  ]
+}

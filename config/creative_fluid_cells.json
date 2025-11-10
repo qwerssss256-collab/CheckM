@@ -1,0 +1,14 @@
+[
+  {
+    "name": "water",
+    "fluids": [
+      "water"
+    ]
+  },
+  {
+    "name": "lava",
+    "fluids": [
+      "lava"
+    ]
+  }
+]

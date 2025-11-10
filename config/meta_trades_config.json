@@ -1,0 +1,6 @@
+{
+  "_comment_min_gem_price": "Минимальная цена гемов в гуи [int]",
+  "min_gem_price": 10000,
+  "_comment_max_gem_price": "Максимальная цена гемов в гуи [int]",
+  "max_gem_price": 250000
+}

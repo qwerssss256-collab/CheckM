@@ -1,0 +1,1181 @@
+[
+  {
+    "name": "luckyBoxGold",
+    "isFromDir": true,
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "item",
+        "id": "customnpcs:npcFireElement",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 1,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "customnpcs:npcFireElement",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 2,
+        "chance": 850
+      },
+      {
+        "type": "item",
+        "id": "customnpcs:npcFireElement",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 3,
+        "chance": 650
+      },
+      {
+        "type": "item",
+        "id": "customnpcs:npcFireElement",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 4,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "customnpcs:npcFireElement",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 6,
+        "chance": 350
+      },
+      {
+        "type": "item",
+        "id": "customnpcs:npcFireElement",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 8,
+        "chance": 250
+      },
+      {
+        "type": "item",
+        "id": "customnpcs:npcFireElement",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 0,
+        "amount": 10,
+        "chance": 125
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxRed",
+    "isFromDir": true,
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 1,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 2,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 3,
+        "chance": 1250
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 4,
+        "chance": 300
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 6,
+        "chance": 150
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 8,
+        "chance": 75
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 0,
+        "amount": 10,
+        "chance": 25
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxPurple",
+    "isFromDir": true,
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 1,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 0,
+        "amount": 3,
+        "chance": 200
+      },
+      {
+        "type": "item",
+        "id": "metacontent:fiery_blood",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 0,
+        "amount": 4,
+        "chance": 100
+      },
+      {
+        "type": "item",
+        "id": "metacontent:air_essence",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 8,
+        "chance": 350
+      },
+      {
+        "type": "item",
+        "id": "metacontent:air_essence",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 12,
+        "chance": 350
+      },
+      {
+        "type": "item",
+        "id": "metacontent:air_essence",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 16,
+        "chance": 350
+      },
+      {
+        "type": "item",
+        "id": "metacontent:alpha_fur",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 8,
+        "chance": 900
+      },
+      {
+        "type": "item",
+        "id": "metacontent:alpha_fur",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 16,
+        "chance": 850
+      },
+      {
+        "type": "item",
+        "id": "metacontent:alpha_fur",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 24,
+        "chance": 800
+      },
+      {
+        "type": "item",
+        "id": "minecraft:nether_star",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 16,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "minecraft:nether_star",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 28,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "minecraft:nether_star",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 40,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "metacontent:gamma_uranium",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 2,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:gamma_uranium",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 4,
+        "chance": 350
+      },
+      {
+        "type": "item",
+        "id": "metacontent:gamma_uranium",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 8,
+        "chance": 250
+      },
+      {
+        "type": "item",
+        "id": "IC2:itemShardIridium",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 16,
+        "chance": 900
+      },
+      {
+        "type": "item",
+        "id": "IC2:itemShardIridium",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 32,
+        "chance": 650
+      },
+      {
+        "type": "item",
+        "id": "IC2:itemShardIridium",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 48,
+        "chance": 450
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxGold1k",
+    "isFromDir": true,
+    "dirLocation": "luckyBoxGold",
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "command",
+        "name": "\u00a761 \u00a76\u0442\u044b\u0441\u044f\u0447\u0430 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldLegendary.png",
+        "command": "money give %s 1000",
+        "rarity": "LEGENDARY",
+        "chance": 25
+      },
+      {
+        "type": "command",
+        "name": "\u00a76700 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 700",
+        "rarity": "MYTHIC",
+        "chance": 50
+      },
+      {
+        "type": "command",
+        "name": "\u00a76500 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 500",
+        "rarity": "MYTHIC",
+        "chance": 75
+      },
+      {
+        "type": "command",
+        "name": "\u00a76400 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 400",
+        "rarity": "EPIC",
+        "chance": 100
+      },
+      {
+        "type": "command",
+        "name": "\u00a76250 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 250",
+        "rarity": "EPIC",
+        "chance": 125
+      },
+      {
+        "type": "command",
+        "name": "\u00a76200 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 200",
+        "rarity": "EPIC",
+        "chance": 150
+      },
+      {
+        "type": "command",
+        "name": "\u00a76150 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 150",
+        "rarity": "RARE",
+        "chance": 250
+      },
+      {
+        "type": "command",
+        "name": "\u00a76135 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 135",
+        "rarity": "RARE",
+        "chance": 500
+      },
+      {
+        "type": "command",
+        "name": "\u00a76125 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 125",
+        "rarity": "RARE",
+        "chance": 750
+      },
+      {
+        "type": "command",
+        "name": "\u00a76110 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 110",
+        "rarity": "RARE",
+        "chance": 900
+      },
+      {
+        "type": "command",
+        "name": "\u00a76100 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 100",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a7690 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 90",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7680 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 80",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7670 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 70",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7650 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 50",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7625 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 25",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a7610 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 10",
+        "rarity": "COMMON",
+        "chance": 1000
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxGold10k",
+    "isFromDir": true,
+    "dirLocation": "luckyBoxGold",
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "command",
+        "name": "\u00a7610 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldLegendary.png",
+        "command": "money give %s 10000",
+        "rarity": "LEGENDARY",
+        "chance": 25
+      },
+      {
+        "type": "command",
+        "name": "\u00a767 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 7000",
+        "rarity": "MYTHIC",
+        "chance": 50
+      },
+      {
+        "type": "command",
+        "name": "\u00a765 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 5000",
+        "rarity": "MYTHIC",
+        "chance": 75
+      },
+      {
+        "type": "command",
+        "name": "\u00a764 \u00a76\u0442\u044b\u0441\u044f\u0447\u0438 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 4000",
+        "rarity": "EPIC",
+        "chance": 100
+      },
+      {
+        "type": "command",
+        "name": "\u00a762.5 \u00a76\u0442\u044b\u0441\u044f\u0447\u0438 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 2500",
+        "rarity": "EPIC",
+        "chance": 125
+      },
+      {
+        "type": "command",
+        "name": "\u00a762 \u00a76\u0442\u044b\u0441\u044f\u0447\u0438 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 2000",
+        "rarity": "EPIC",
+        "chance": 150
+      },
+      {
+        "type": "command",
+        "name": "\u00a761.5 \u00a76\u0442\u044b\u0441\u044f\u0447\u0438 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 1500",
+        "rarity": "RARE",
+        "chance": 250
+      },
+      {
+        "type": "command",
+        "name": "\u00a761.4 \u00a76\u0442\u044b\u0441\u044f\u0447\u0438 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 1400",
+        "rarity": "RARE",
+        "chance": 350
+      },
+      {
+        "type": "command",
+        "name": "\u00a761.3 \u00a76\u0442\u044b\u0441\u044f\u0447\u0430 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 1300",
+        "rarity": "RARE",
+        "chance": 500
+      },
+      {
+        "type": "command",
+        "name": "\u00a761.1 \u00a76\u0442\u044b\u0441\u044f\u0447\u0430 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 1100",
+        "rarity": "RARE",
+        "chance": 750
+      },
+      {
+        "type": "command",
+        "name": "\u00a761 \u00a76\u0442\u044b\u0441\u044f\u0447\u0430 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 1000",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a76900 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 900",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a76800 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 800",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a76700 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 700",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a76500 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 500",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a76250 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 250",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a76100 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 100",
+        "rarity": "COMMON",
+        "chance": 1000
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxGold100k",
+    "isFromDir": true,
+    "dirLocation": "luckyBoxGold",
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "command",
+        "name": "\u00a76100 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldLegendary.png",
+        "command": "money give %s 100000",
+        "rarity": "LEGENDARY",
+        "chance": 10
+      },
+      {
+        "type": "command",
+        "name": "\u00a7670 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 70000",
+        "rarity": "MYTHIC",
+        "chance": 25
+      },
+      {
+        "type": "command",
+        "name": "\u00a7650 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 50000",
+        "rarity": "MYTHIC",
+        "chance": 50
+      },
+      {
+        "type": "command",
+        "name": "\u00a7640 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 40000",
+        "rarity": "EPIC",
+        "chance": 75
+      },
+      {
+        "type": "command",
+        "name": "\u00a7625 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 25000",
+        "rarity": "EPIC",
+        "chance": 100
+      },
+      {
+        "type": "command",
+        "name": "\u00a7620 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 20000",
+        "rarity": "EPIC",
+        "chance": 125
+      },
+      {
+        "type": "command",
+        "name": "\u00a7615 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 15000",
+        "rarity": "RARE",
+        "chance": 150
+      },
+      {
+        "type": "command",
+        "name": "\u00a7613.5 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 13500",
+        "rarity": "RARE",
+        "chance": 250
+      },
+      {
+        "type": "command",
+        "name": "\u00a7612.5 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 12500",
+        "rarity": "RARE",
+        "chance": 500
+      },
+      {
+        "type": "command",
+        "name": "\u00a7611 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 11000",
+        "rarity": "RARE",
+        "chance": 750
+      },
+      {
+        "type": "command",
+        "name": "\u00a7610 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 10000",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a769 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 9000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a768 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 8000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a767 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 7000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a765 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 5000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a762.5 \u00a76\u0442\u044b\u0441\u044f\u0447\u0438 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 2500",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a761 \u00a76\u0442\u044b\u0441\u044f\u0447\u0430 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 1000",
+        "rarity": "COMMON",
+        "chance": 1000
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxGold1kk",
+    "isFromDir": true,
+    "dirLocation": "luckyBoxGold",
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "command",
+        "name": "\u00a76\u041c\u0438-\u0438-\u0438\u043b\u043b\u0438\u043e-\u043e-\u043e\u043d \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430, \u00a7d\u043f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u044f\u0435\u043c!",
+        "icon": "textures/commands/goldLegendary.png",
+        "command": "money give %s 1000000",
+        "rarity": "LEGENDARY",
+        "chance": 5
+      },
+      {
+        "type": "command",
+        "name": "\u00a76700 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 700000",
+        "rarity": "MYTHIC",
+        "chance": 25
+      },
+      {
+        "type": "command",
+        "name": "\u00a76500 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldMythical.png",
+        "command": "money give %s 500000",
+        "rarity": "MYTHIC",
+        "chance": 50
+      },
+      {
+        "type": "command",
+        "name": "\u00a76400 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 400000",
+        "rarity": "EPIC",
+        "chance": 75
+      },
+      {
+        "type": "command",
+        "name": "\u00a76250 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 250000",
+        "rarity": "EPIC",
+        "chance": 100
+      },
+      {
+        "type": "command",
+        "name": "\u00a76200 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldEpic.png",
+        "command": "money give %s 200000",
+        "rarity": "EPIC",
+        "chance": 125
+      },
+      {
+        "type": "command",
+        "name": "\u00a76150 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 150000",
+        "rarity": "RARE",
+        "chance": 150
+      },
+      {
+        "type": "command",
+        "name": "\u00a76135 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 135000",
+        "rarity": "RARE",
+        "chance": 250
+      },
+      {
+        "type": "command",
+        "name": "\u00a76125 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 125000",
+        "rarity": "RARE",
+        "chance": 500
+      },
+      {
+        "type": "command",
+        "name": "\u00a76110 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldRare.png",
+        "command": "money give %s 110000",
+        "rarity": "RARE",
+        "chance": 750
+      },
+      {
+        "type": "command",
+        "name": "\u00a76100 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 100000",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a7690 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 90000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7680 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 80000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7670 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 70000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7650 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 50000",
+        "rarity": "COMMON",
+        "chance": 1400
+      },
+      {
+        "type": "command",
+        "name": "\u00a7625 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 25000",
+        "rarity": "COMMON",
+        "chance": 1000
+      },
+      {
+        "type": "command",
+        "name": "\u00a7610 \u00a76\u0442\u044b\u0441\u044f\u0447 \u00a7e\u0437\u043e\u043b\u043e\u0442\u0430",
+        "icon": "textures/commands/goldCommon.png",
+        "command": "money give %s 10000",
+        "rarity": "COMMON",
+        "chance": 1000
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxBosses",
+    "isFromDir": true,
+    "dirLocation": "luckyBoxGold",
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "item",
+        "id": "metatweaker:BossesItems",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 1,
+        "amount": 1,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metatweaker:BossesItems",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 1,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metatweaker:BossesItems",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 5,
+        "amount": 1,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metatweaker:BossesItems",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 11,
+        "amount": 1,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metatweaker:BossesItems",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 14,
+        "amount": 1,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metatweaker:BossesItems",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 10,
+        "amount": 1,
+        "chance": 1000
+      }
+    ]
+  },
+  {
+    "name": "luckyBoxGoldsmith",
+    "isFromDir": true,
+    "animationName": "animation.model.rotate",
+    "drops": [
+      {
+        "type": "item",
+        "id": "metacontent:rose_quartz",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 10,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metacontent:onyx",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 10,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metacontent:jasper",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 10,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metacontent:garnet",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 10,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metacontent:citrine",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 10,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metacontent:amber",
+        "nbt": "",
+        "rarity": "COMMON",
+        "meta": 0,
+        "amount": 10,
+        "chance": 1000
+      },
+      {
+        "type": "item",
+        "id": "metacontent:sugilite",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 7,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:malachite",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 7,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:zircon",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 7,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:jade",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 7,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:tanzanite",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 7,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:peridot",
+        "nbt": "",
+        "rarity": "RARE",
+        "meta": 0,
+        "amount": 7,
+        "chance": 750
+      },
+      {
+        "type": "item",
+        "id": "metacontent:spinel",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 5,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "metacontent:tourmaline",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 5,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "metacontent:opal",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 5,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "metacontent:ruby",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 5,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "metacontent:amethyst",
+        "nbt": "",
+        "rarity": "EPIC",
+        "meta": 0,
+        "amount": 5,
+        "chance": 450
+      },
+      {
+        "type": "item",
+        "id": "metacontent:aquamarine",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 2,
+        "chance": 250
+      },
+      {
+        "type": "item",
+        "id": "metacontent:danburite",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 2,
+        "chance": 250
+      },
+      {
+        "type": "item",
+        "id": "metacontent:alexandrite",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 2,
+        "chance": 250
+      },
+      {
+        "type": "item",
+        "id": "metacontent:sapphire",
+        "nbt": "",
+        "rarity": "MYTHIC",
+        "meta": 0,
+        "amount": 2,
+        "chance": 250
+      },
+      {
+        "type": "item",
+        "id": "metacontent:dragon_stone",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 0,
+        "amount": 1,
+        "chance": 150
+      },
+      {
+        "type": "item",
+        "id": "metacontent:black_opal",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 0,
+        "amount": 1,
+        "chance": 150
+      },
+      {
+        "type": "item",
+        "id": "metacontent:ancient_emerald",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 0,
+        "amount": 1,
+        "chance": 150
+      },
+      {
+        "type": "item",
+        "id": "metacontent:ItemCommonMushroom",
+        "nbt": "",
+        "rarity": "LEGENDARY",
+        "meta": 7,
+        "amount": 1,
+        "chance": 5
+      }
+    ]
+  }
+]

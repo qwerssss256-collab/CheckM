@@ -1,0 +1,100 @@
+{
+  "packs": [
+    {
+      "id": "gold_1",
+      "currencyId": "gold",
+      "iconPath": "metadonate:textures/gui/bank/icons/gold_1.png",
+      "amount": 3000,
+      "price": 39,
+      "sort": 10
+    },
+    {
+      "id": "gold_2",
+      "currencyId": "gold",
+      "iconPath": "metadonate:textures/gui/bank/icons/gold_2.png",
+      "amount": 9500,
+      "price": 119,
+      "sort": 20
+    },
+    {
+      "id": "gold_3",
+      "currencyId": "gold",
+      "iconPath": "metadonate:textures/gui/bank/icons/gold_3.png",
+      "amount": 27500,
+      "price": 339,
+      "sort": 30
+    },
+    {
+      "id": "gold_4",
+      "currencyId": "gold",
+      "iconPath": "metadonate:textures/gui/bank/icons/gold_4.png",
+      "amount": 85000,
+      "price": 499,
+      "sort": 40
+    },
+    {
+      "id": "gem_1",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_1.png",
+      "amount": 80,
+      "price": 39,
+      "sort": 50
+    },
+    {
+      "id": "gem_2",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_2.png",
+      "amount": 170,
+      "price": 79,
+      "sort": 60
+    },
+    {
+      "id": "gem_3",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_3.png",
+      "amount": 360,
+      "price": 149,
+      "sort": 70
+    },
+    {
+      "id": "gem_4",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_4.png",
+      "amount": 1200,
+      "price": 499,
+      "sort": 80
+    },
+    {
+      "id": "gem_5",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_4.png",
+      "amount": 1800,
+      "price": 749,
+      "sort": 90
+    },
+    {
+      "id": "gem_6",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_4.png",
+      "amount": 2500,
+      "price": 999,
+      "sort": 100
+    },
+    {
+      "id": "gem_7",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_4.png",
+      "amount": 3800,
+      "price": 1399,
+      "sort": 110
+    },
+    {
+      "id": "gem_8",
+      "currencyId": "gem",
+      "iconPath": "metadonate:textures/gui/bank/icons/gem_4.png",
+      "amount": 5000,
+      "price": 1649,
+      "sort": 120
+    }
+  ]
+}

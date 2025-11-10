@@ -1,0 +1,65 @@
+[
+  {
+    "name": "cobblestone",
+    "items": [
+      {
+        "name": "minecraft:cobblestone",
+        "meta": 0
+      }
+    ]
+  },
+  {
+    "name": "stone",
+    "items": [
+      {
+        "name": "minecraft:stone",
+        "meta": 0
+      }
+    ]
+  },
+  {
+    "name": "dirt",
+    "items": [
+      {
+        "name": "minecraft:dirt",
+        "meta": 0
+      }
+    ]
+  },
+  {
+    "name": "sand",
+    "items": [
+      {
+        "name": "minecraft:sand",
+        "meta": 0
+      }
+    ]
+  },
+  {
+    "name": "gravel",
+    "items": [
+      {
+        "name": "minecraft:gravel",
+        "meta": 0
+      }
+    ]
+  },
+  {
+    "name": "log",
+    "items": [
+      {
+        "name": "minecraft:log",
+        "meta": 0
+      }
+    ]
+  },
+  {
+    "name": "glass",
+    "items": [
+      {
+        "name": "minecraft:glass",
+        "meta": 0
+      }
+    ]
+  }
+]

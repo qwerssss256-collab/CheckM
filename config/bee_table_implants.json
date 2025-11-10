@@ -1,0 +1,20 @@
+{
+  "implantsWhiteList": [
+    {
+      "name": "metatweaker:BeeChip",
+      "meta": 0
+    },
+    {
+      "name": "metatweaker:BeeChip",
+      "meta": 1
+    },
+    {
+      "name": "metatweaker:BeeChip",
+      "meta": 2
+    },
+    {
+      "name": "metatweaker:BeeChip",
+      "meta": 3
+    }
+  ]
+}

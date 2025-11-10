@@ -1,0 +1,172 @@
+[
+  {
+    "name": "ChromeEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 120000000.0,
+    "maxOutput": 100000.0,
+    "outputTexture": "energy_storage/chrome/face",
+    "topTexture": [
+      "energy_storage/chrome/top",
+      "energy_storage/chrome/top_active"
+    ],
+    "textures": [
+      "energy_storage/chrome/bottom",
+      "energy_storage/chrome/side",
+      "energy_storage/chrome/side",
+      "energy_storage/chrome/side"
+    ]
+  },
+  {
+    "name": "GravityEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 480000000.0,
+    "maxOutput": 400000.0,
+    "outputTexture": "energy_storage/gravity/face",
+    "topTexture": [
+      "energy_storage/gravity/top",
+      "energy_storage/gravity/top_active"
+    ],
+    "textures": [
+      "energy_storage/gravity/bottom",
+      "energy_storage/gravity/side",
+      "energy_storage/gravity/side",
+      "energy_storage/gravity/side"
+    ]
+  },
+  {
+    "name": "WywernEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 1920000000.0,
+    "maxOutput": 1600000.0,
+    "outputTexture": "energy_storage/wywern/face",
+    "topTexture": [
+      "energy_storage/wywern/top",
+      "energy_storage/wywern/top_active"
+    ],
+    "textures": [
+      "energy_storage/wywern/bottom",
+      "energy_storage/wywern/side",
+      "energy_storage/wywern/side",
+      "energy_storage/wywern/side"
+    ]
+  },
+  {
+    "name": "CorregateEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 7.68e9,
+    "maxOutput": 6400000.0,
+    "outputTexture": "energy_storage/corregate/face",
+    "topTexture": [
+      "energy_storage/corregate/top",
+      "energy_storage/corregate/top_active"
+    ],
+    "textures": [
+      "energy_storage/corregate/bottom",
+      "energy_storage/corregate/side",
+      "energy_storage/corregate/side",
+      "energy_storage/corregate/side"
+    ]
+  },
+  {
+    "name": "DragonEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 3.072e10,
+    "maxOutput": 102400000.0,
+    "outputTexture": "energy_storage/dragon/face",
+    "topTexture": [
+      "energy_storage/dragon/top",
+      "energy_storage/dragon/top_active"
+    ],
+    "textures": [
+      "energy_storage/dragon/bottom",
+      "energy_storage/dragon/side",
+      "energy_storage/dragon/side",
+      "energy_storage/dragon/side"
+    ]
+  },
+  {
+    "name": "GammaEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 1.2288e11,
+    "maxOutput": 409600000.0,
+    "outputTexture": "energy_storage/gamma/face",
+    "topTexture": [
+      "energy_storage/gamma/top",
+      "energy_storage/gamma/top_active"
+    ],
+    "textures": [
+      "energy_storage/gamma/bottom",
+      "energy_storage/gamma/side",
+      "energy_storage/gamma/side",
+      "energy_storage/gamma/side"
+    ]
+  },
+  {
+    "name": "ChaoticEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 4.9152e11,
+    "maxOutput": 1638400000.0,
+    "outputTexture": "energy_storage/chaotic/face",
+    "topTexture": [
+      "energy_storage/chaotic/top",
+      "energy_storage/chaotic/top_active"
+    ],
+    "textures": [
+      "energy_storage/chaotic/bottom",
+      "energy_storage/chaotic/side",
+      "energy_storage/chaotic/side",
+      "energy_storage/chaotic/side"
+    ]
+  },
+  {
+    "name": "StarEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 1.96608e12,
+    "maxOutput": 6.5536e9,
+    "outputTexture": "energy_storage/star/face",
+    "topTexture": [
+      "energy_storage/star/top",
+      "energy_storage/star/top_active"
+    ],
+    "textures": [
+      "energy_storage/star/bottom",
+      "energy_storage/star/side",
+      "energy_storage/star/side",
+      "energy_storage/star/side"
+    ]
+  },
+  {
+    "name": "SpaceEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 7.86432e12,
+    "maxOutput": 2.62144e10,
+    "outputTexture": "energy_storage/space/face",
+    "topTexture": [
+      "energy_storage/space/top",
+      "energy_storage/space/top_active"
+    ],
+    "textures": [
+      "energy_storage/space/bottom",
+      "energy_storage/space/side",
+      "energy_storage/space/side",
+      "energy_storage/space/side"
+    ]
+  },
+  {
+    "name": "InfinitySpaceEnergyStorage",
+    "ignoreChargeLimit": true,
+    "maxStorage": 3.145728e13,
+    "maxOutput": 1.048576e11,
+    "outputTexture": "energy_storage/infinity/face",
+    "topTexture": [
+      "energy_storage/infinity/top",
+      "energy_storage/infinity/top_active"
+    ],
+    "textures": [
+      "energy_storage/infinity/bottom",
+      "energy_storage/infinity/side",
+      "energy_storage/infinity/side",
+      "energy_storage/infinity/side"
+    ]
+  }
+]

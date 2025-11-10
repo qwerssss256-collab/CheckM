@@ -1,0 +1,64 @@
+{
+  "background_location": "metagames:textures/gui/background.png",
+  "logo_location": "metagames:textures/gui/logo/technomagicrpg.png",
+  "_comment_logo_size": "Размер лого на экране",
+  "logo_size": "212, 60",
+  "currencies_for_show": [
+    "gold",
+    "gem",
+    "rub"
+  ],
+  "nav_bar": {
+    "buttons": [
+      {
+        "text": "Кейсы",
+        "command": "cases",
+        "textFont": "minecraft-five",
+        "textSize": 24,
+        "textLRPadding": 36
+      },
+      {
+        "text": "Сапёр",
+        "command": "metagames",
+        "textFont": "minecraft-five",
+        "textSize": 24,
+        "textLRPadding": 36
+      },
+      {
+        "text": "Кости",
+        "command": "metagames dice",
+        "textFont": "minecraft-five",
+        "textSize": 24,
+        "textLRPadding": 36
+      },
+      {
+        "text": "Бустеры",
+        "command": "buybooster",
+        "textFont": "minecraft-five",
+        "textSize": 24,
+        "textLRPadding": 36
+      },
+      {
+        "text": "Наборы",
+        "command": "kits open default",
+        "textFont": "minecraft-five",
+        "textSize": 24,
+        "textLRPadding": 36
+      },
+      {
+        "text": "Навыки",
+        "command": "buylevel",
+        "textFont": "minecraft-five",
+        "textSize": 24,
+        "textLRPadding": 36
+      },
+      {
+        "text": "Банк",
+        "command": "bank",
+        "textFont": "minecraft-five",
+        "textSize": 24,
+        "textLRPadding": 36
+      }
+    ]
+  }
+}

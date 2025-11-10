@@ -1,0 +1,28 @@
+{
+  "_comment_asgard_item": "Улучшение бесконечной маны для мехов",
+  "asgard_item": {
+    "id": "Botania:asgard",
+    "meta": 0
+  },
+  "forge_ring": {
+    "_comment_mana_capacity": "Размер хранилища маны [int]",
+    "mana_capacity": 100000000
+  },
+  "euclidean_gen": {
+    "_comment_mana_capacity": "Размер хранилища маны [int]",
+    "mana_capacity": 1000000,
+    "_comment_mana_consume": "Потребление маны [в тик]",
+    "mana_consume": 200,
+    "_comment_operation_length": "Длина операции [тики]",
+    "operation_length": 30,
+    "_comment_amount_essence_with_tier": "Количество эссенций для каждого тира",
+    "amount_essence_with_tier": [
+      1,
+      4,
+      16,
+      32,
+      48,
+      64
+    ]
+  }
+}

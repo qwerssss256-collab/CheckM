@@ -1,0 +1,30 @@
+{
+  "speedUpgrades": [
+    {
+      "name": "base",
+      "percent": 25
+    },
+    {
+      "name": "advanced",
+      "percent": 50
+    },
+    {
+      "name": "ultimate",
+      "percent": 90
+    }
+  ],
+  "magicEfficiencyUpgrades": [
+    {
+      "name": "base",
+      "percent": 10
+    },
+    {
+      "name": "advanced",
+      "percent": 25
+    },
+    {
+      "name": "ultimate",
+      "percent": 50
+    }
+  ]
+}

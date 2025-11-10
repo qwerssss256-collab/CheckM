@@ -1,0 +1,16 @@
+[
+  {
+    "aspectDrainSpeed": 5.0,
+    "aspectHandleRange": 5,
+    "transferMaxRange": 20.0,
+    "aspectTransferSpeed": 5.0,
+    "aspectLimit": 100.0
+  },
+  {
+    "aspectDrainSpeed": 10.0,
+    "aspectHandleRange": 10,
+    "transferMaxRange": 20.0,
+    "aspectTransferSpeed": 10.0,
+    "aspectLimit": 100.0
+  }
+]

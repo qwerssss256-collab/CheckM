@@ -1,0 +1,14 @@
+{
+  "modifier_list": {
+    "_comment_modifier_array": "Массив переключения модификатора",
+    "modifier_array": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      32,
+      64
+    ]
+  }
+}

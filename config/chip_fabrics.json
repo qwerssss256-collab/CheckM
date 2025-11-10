@@ -1,0 +1,30 @@
+[
+  {
+    "name": "industrial",
+    "energyCapacity": 200000000,
+    "manaCapacity": 0,
+    "bloodCapacity": 0,
+    "aspectCapacity": 0
+  },
+  {
+    "name": "botanic",
+    "energyCapacity": 200000000,
+    "manaCapacity": 200000000,
+    "bloodCapacity": 0,
+    "aspectCapacity": 0
+  },
+  {
+    "name": "demonic",
+    "energyCapacity": 200000000,
+    "manaCapacity": 0,
+    "bloodCapacity": 200000000,
+    "aspectCapacity": 0
+  },
+  {
+    "name": "thaumic",
+    "energyCapacity": 200000000,
+    "manaCapacity": 0,
+    "bloodCapacity": 0,
+    "aspectCapacity": 10000000
+  }
+]

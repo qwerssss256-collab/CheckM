@@ -1,0 +1,47 @@
+[
+  {
+    "playerInventoryX": 45,
+    "playerInventoryY": 180,
+    "maxVisibleSlots": 117,
+    "column": 9,
+    "length": 13,
+    "slotStartPositionX": 8,
+    "slotStartPositionY": 8,
+    "texturePath": "textures/gui/gui_pouch.png",
+    "guiSizeX": 284,
+    "guiSizeY": 262,
+    "upgradeSlotCount": 2,
+    "upgradeSlotStartX": 261,
+    "upgradeSlotStartY": 26
+  },
+  {
+    "playerInventoryX": 45,
+    "playerInventoryY": 180,
+    "maxVisibleSlots": 117,
+    "column": 18,
+    "length": 13,
+    "slotStartPositionX": 8,
+    "slotStartPositionY": 8,
+    "texturePath": "textures/gui/gui_pouch.png",
+    "guiSizeX": 284,
+    "guiSizeY": 262,
+    "upgradeSlotCount": 2,
+    "upgradeSlotStartX": 261,
+    "upgradeSlotStartY": 26
+  },
+  {
+    "playerInventoryX": 45,
+    "playerInventoryY": 180,
+    "maxVisibleSlots": 117,
+    "column": 36,
+    "length": 13,
+    "slotStartPositionX": 8,
+    "slotStartPositionY": 8,
+    "texturePath": "textures/gui/gui_pouch.png",
+    "guiSizeX": 284,
+    "guiSizeY": 262,
+    "upgradeSlotCount": 2,
+    "upgradeSlotStartX": 261,
+    "upgradeSlotStartY": 26
+  }
+]

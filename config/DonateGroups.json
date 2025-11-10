@@ -1,0 +1,85 @@
+{
+  "groups": [
+    {
+      "id": "default",
+      "displayName": "Игрок",
+      "hexColor": "#8C8C8C",
+      "nickColor": "#AAAAAA",
+      "chatColor": "#CCCCCC",
+      "weight": 0,
+      "paid": false
+    },
+    {
+      "id": "group100",
+      "displayName": "PRO",
+      "hexColor": "#00AAAA",
+      "nickColor": "#00AAAA",
+      "chatColor": "#FFFF55",
+      "weight": 100,
+      "paid": true
+    },
+    {
+      "id": "group200",
+      "displayName": "VIP",
+      "hexColor": "#00AA00",
+      "nickColor": "#00AA00",
+      "chatColor": "#FFFF55",
+      "weight": 200,
+      "paid": true
+    },
+    {
+      "id": "group300",
+      "displayName": "PREMIUM",
+      "hexColor": "#FFAA00",
+      "nickColor": "#FFAA00",
+      "chatColor": "#FFFF55",
+      "weight": 300,
+      "paid": true
+    },
+    {
+      "id": "group500",
+      "displayName": "ELITE",
+      "hexColor": "#5555FF",
+      "nickColor": "#5555FF",
+      "chatColor": "#FFFF55",
+      "weight": 500,
+      "paid": true
+    },
+    {
+      "id": "group800",
+      "displayName": "DELUXE",
+      "hexColor": "#FF55FF",
+      "nickColor": "#FF55FF",
+      "chatColor": "#FFFF55",
+      "weight": 800,
+      "paid": true
+    },
+    {
+      "id": "group1500",
+      "displayName": "MOD",
+      "hexColor": "#FF5555",
+      "nickColor": "#FF5555",
+      "chatColor": "#FFFF55",
+      "weight": 1500,
+      "paid": true
+    },
+    {
+      "id": "group10000",
+      "displayName": "TRUEMOD",
+      "hexColor": "#AA0000",
+      "nickColor": "#AA0000",
+      "chatColor": "#FFFF55",
+      "weight": 10000,
+      "paid": true
+    },
+    {
+      "id": "group100000",
+      "displayName": "SPONSOR",
+      "hexColor": "#FF3300",
+      "nickColor": "#AA0000",
+      "chatColor": "#FFFF55",
+      "weight": 11000,
+      "paid": true
+    }
+  ]
+}

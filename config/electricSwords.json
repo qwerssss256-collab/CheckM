@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Realmite",
+    "defaultDamage": 4,
+    "damage": 22,
+    "maxCharge": 180000,
+    "transferLimit": 550.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 70.0,
+    "textureOff": "RealmiteNanoSaber.off",
+    "textureActive": "RealmiteNanoSaber.active"
+  },
+  {
+    "name": "Arlemite",
+    "defaultDamage": 4,
+    "damage": 24,
+    "maxCharge": 200000,
+    "transferLimit": 600.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 76.0,
+    "textureOff": "ArlemiteNanoSaber.off",
+    "textureActive": "ArlemiteNanoSaber.active"
+  },
+  {
+    "name": "Rupium",
+    "defaultDamage": 4,
+    "damage": 26,
+    "maxCharge": 220000,
+    "transferLimit": 650.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 82.0,
+    "textureOff": "RupiumNanoSaber.off",
+    "textureActive": "RupiumNanoSaber.active"
+  },
+  {
+    "name": "Edem",
+    "defaultDamage": 4,
+    "damage": 28,
+    "maxCharge": 160000,
+    "transferLimit": 700.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 64.0,
+    "textureOff": "EdemNanoSaber.off",
+    "textureActive": "EdemNanoSaber.active"
+  },
+  {
+    "name": "Wildforest",
+    "defaultDamage": 4,
+    "damage": 30,
+    "maxCharge": 200000,
+    "transferLimit": 750.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 80.0,
+    "textureOff": "WildforestNanoSaber.off",
+    "textureActive": "WildforestNanoSaber.active"
+  },
+  {
+    "name": "Apalachi",
+    "defaultDamage": 4,
+    "damage": 33,
+    "maxCharge": 240000,
+    "transferLimit": 800.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 96.0,
+    "textureOff": "ApalachiNanoSaber.off",
+    "textureActive": "ApalachiNanoSaber.active"
+  },
+  {
+    "name": "Skyunder",
+    "defaultDamage": 4,
+    "damage": 35,
+    "maxCharge": 280000,
+    "transferLimit": 850.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 112.0,
+    "textureOff": "SkyunderNanoSaber.off",
+    "textureActive": "SkyunderNanoSaber.active"
+  },
+  {
+    "name": "Mortum",
+    "defaultDamage": 4,
+    "damage": 37,
+    "maxCharge": 320000,
+    "transferLimit": 900.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 128.0,
+    "textureOff": "MortumNanoSaber.off",
+    "textureActive": "MortumNanoSaber.active"
+  },
+  {
+    "name": "Chalite",
+    "defaultDamage": 4,
+    "damage": 40,
+    "maxCharge": 360000,
+    "transferLimit": 950.0,
+    "consumeOnHit": 400.0,
+    "consumePassive": 144.0,
+    "textureOff": "ChaliteNanoSaber.off",
+    "textureActive": "ChaliteNanoSaber.active"
+  },
+  {
+    "name": "Admin",
+    "defaultDamage": 4,
+    "damage": 2147483647,
+    "maxCharge": 2147483647,
+    "transferLimit": 2147483647.0,
+    "consumeOnHit": 1.0,
+    "consumePassive": 1.0,
+    "textureOff": "Admin.off",
+    "textureActive": "Admin.active"
+  }
+]

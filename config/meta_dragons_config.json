@@ -1,0 +1,20 @@
+{
+  "infinity_dragon": {
+    "_comment_class_name": "Имя класса",
+    "class_name": "su.metalabs.dragons.entity.type.InfinityDragon",
+    "_comment_hp": "HP дракона",
+    "hp": 3000.0,
+    "_comment_element_id": "id-Элемента",
+    "element_id": "infinity",
+    "_comment_speed_modifier": "Скорость дракона",
+    "speed_modifier": 1.0,
+    "_comment_particle_color": "Цвет эффектов дракона",
+    "particle_color": "#AA0000",
+    "_comment_damage": "Урон дракона",
+    "damage": 20.0,
+    "_comment_xp": "Опыт за убийство дракона",
+    "xp": 30000,
+    "_comment_dragon_texture_path": "Путь до текстуры дракона",
+    "dragon_texture_path": "textures/infinity_dragon.png"
+  }
+}

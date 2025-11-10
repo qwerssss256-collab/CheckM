@@ -1,0 +1,32 @@
+[
+  {
+    "name": "speed_1",
+    "type": "SPEED",
+    "amplifier": 25
+  },
+  {
+    "name": "speed_2",
+    "type": "SPEED",
+    "amplifier": 50
+  },
+  {
+    "name": "speed_3",
+    "type": "SPEED",
+    "amplifier": 75
+  },
+  {
+    "name": "operation_1",
+    "type": "OPERATION",
+    "amplifier": 2
+  },
+  {
+    "name": "operation_2",
+    "type": "OPERATION",
+    "amplifier": 4
+  },
+  {
+    "name": "operation_3",
+    "type": "OPERATION",
+    "amplifier": 8
+  }
+]

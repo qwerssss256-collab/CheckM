@@ -1,0 +1,5 @@
+{
+  "resourceTankCapacity": 100000,
+  "productTankCapacity": 100000,
+  "defaultEnergyCapacity": 1000000.0
+}

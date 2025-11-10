@@ -1,0 +1,22 @@
+[
+  {
+    "name": "crystallizer_enchanted",
+    "type": "ENCHANTED",
+    "amplifier": 100
+  },
+  {
+    "name": "crystallizer_speed_1",
+    "type": "SPEED",
+    "amplifier": 50
+  },
+  {
+    "name": "crystallizer_liquidDiscount_1",
+    "type": "LIQUID_DISCOUNT",
+    "amplifier": 50
+  },
+  {
+    "name": "crystallizer_aspectDiscount_1",
+    "type": "ASPECT_DISCOUNT",
+    "amplifier": 50
+  }
+]
